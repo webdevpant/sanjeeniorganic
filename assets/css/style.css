@@ -17400,7 +17400,7 @@ html.lenis {
   only screen and (min-width: 480px) and (max-width: 575px),
   only screen and (min-width: 0px) and (max-width: 479px) {
   .rv-20-about_section {
-    padding: 100px 0 50px 0;
+    padding: 0px 0 50px 0;
   }
 }
 
@@ -38585,7 +38585,7 @@ html.lenis {
   only screen and (min-width: 480px) and (max-width: 575px),
   only screen and (min-width: 0px) and (max-width: 479px) {
   .rv-20-service_section {
-    padding: 70px 0;
+    padding: 0px 0;
   }
 }
 
@@ -38593,7 +38593,7 @@ html.lenis {
   only screen and (min-width: 480px) and (max-width: 575px),
   only screen and (min-width: 0px) and (max-width: 479px) {
   .rv-20-service_section {
-    padding: 50px 0;
+    padding: 0px 0;
   }
 }
 
@@ -62482,7 +62482,7 @@ select:focus {
   margin-top: 10px;
   border-radius: 20px;
   padding: 10px;
-  background: linear-gradient(#7c9d2e, #7c9d2e40);
+  background: linear-gradient(#7c9d2e, #9dca33d9);
 }
 .processBoxTwo {
   text-align: justify;
@@ -62594,7 +62594,7 @@ select:focus {
 }
 .card .face.front-face img {
   object-fit: inherit;
-  border-radius: ;
+  /* border-radius: ; */
 }
 
 .card .face.front-face .profile {
@@ -62799,7 +62799,7 @@ header.php page media query nav bar
   .sectionTwo {
     width: 90%;
     margin: 10px 10px;
-    margin-top: 0px;
+    margin-top: -105px;
     margin-bottom: 0px;
   }
 }
