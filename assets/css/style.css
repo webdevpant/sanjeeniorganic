@@ -11973,7 +11973,7 @@ html.lenis {
   .rv-20-banner_slide
   .rv-20-banner_content
   .rv-20-banner_content_heading {
-  color: #fff;
+  color: #54711a;
   font-size: 40px;
   font-weight: 800;
   margin-bottom: 60px;
@@ -62027,6 +62027,7 @@ index page css start by chandra shekhar pant
   margin: 25px 46px;
   color: #52565e;
 }
+
 @media (max-width: 1090px) {
   .aboutBox {
     background-color: red;
@@ -62466,7 +62467,7 @@ select:focus {
   font-weight: 600;
   line-height: 150%;
   letter-spacing: -1px;
-  color: #d3d3d34f;
+  color: #54711a;
 }
 
 .fontBottam h3 {
@@ -62475,14 +62476,14 @@ select:focus {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   letter-spacing: 2px;
-  color: #d3d3d34f;
+  color: #455a1a;
 }
 
 .processBox {
   margin-top: 10px;
   border-radius: 20px;
   padding: 10px;
-  background: linear-gradient(#7c9d2e, #9dca33d9);
+  background:#def0a6;
 }
 .processBoxTwo {
   text-align: justify;
@@ -62492,7 +62493,7 @@ select:focus {
   font-size: 15px;
   text-align: justify;
   margin-bottom: 10px;
-  color: white;
+  color: #1d2a09;
   font-weight: 600;
 }
 .naturepart p {
@@ -62845,4 +62846,4 @@ header.php page media query nav bar
 
 
 
-/* media query nav bar */
+/* FOOTER CSS */
