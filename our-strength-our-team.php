@@ -78,10 +78,9 @@
                 </h3>
                 <div class="aboutSection">
                     <div class="aboutHeading">
-                        <h3 class="mt-4">
+                        <h3 class="mt-5">
                             Our Story
                         </h3>
-
                     </div>
                     <div class="aboutDes">
                         <p class="rv-1-about__descr" data-aos="fade-left" data-aos-delay="150">
@@ -113,7 +112,7 @@
         <div class="aboutTwo">
             <div class="aboutItems">
                 <div class="aboutImageSection" data-aos="fade-right">
-                    <img src="https://i.postimg.cc/YqRGL0wT/mdsir.jpg" alt="Sanjeevani Agrofoods Organic products"
+                    <img src="https://i.postimg.cc/P53Rb5tT/IMG-0671.jpg" alt="Sanjeevani Agrofoods Organic products"
                         class="img-thumbnail">
                 </div>
             </div>

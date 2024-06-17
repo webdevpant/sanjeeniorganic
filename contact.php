@@ -53,13 +53,13 @@
 				</div>
 				<div class="col2 column2 last">
 					<div class="sec2innercont">
-						<div class="sec2addr">
-                        
+						<div class="sec2addr">                      
 							<p><i class="fa-solid fa-location-dot fa-beat fa-xl"></i>
                            
-                            &nbsp;&nbsp;&nbsp;&nbsp;Khasra No. 148 CHA Mauza Chandrabani Khalsa,</br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mohabbewala Industrial Area, Dehradun,
-                            Uttarakhand, <br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Khasra No. 148 CHA Mauza Chandrabani</br> 
+                            &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khalsa, Mohabbewala </br> 
+							&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industrial Area, Dehradun,</br> 
+							 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uttarakhand, <br>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postel Code - 248002.
                             </p>
                             <p><i class="fa-solid fa-clock fa-xl"></i>&nbsp;&nbsp;&nbsp; Monday - Saturday : 08:30 am - 06:00 pm</p>
@@ -68,9 +68,8 @@
 
                            </i><a href="tel:8791079305"></i>&nbsp;&nbsp;+91-87910-79305</a></p>
 
-							<p class="mt-2 link"><i class="fa-regular fa-envelope fa-xl"></i><a href="mailto:info@sanjeevaniagrofoods.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;info@sanjeevaniagrofoods.com ,</a>
-
-                           <a href="mailto:sales@sanjeevaniagrofoods.com">&nbsp;&nbsp;&nbsp;sales@sanjeevaniagrofoods.com</a></p>
+							<p class="mt-2 link"><i class="fa-regular fa-envelope fa-xl"></i><a href="mailto:info@sanjeevaniagrofoods.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;info@sanjeevaniagrofoods.com </a></p>
+							 <p class="mt-2 link"><i class="fa-regular fa-envelope fa-xl"></i><a href="mailto:sales@sanjeevaniagrofoods.com">&nbsp;&nbsp;&nbsp;sales@sanjeevaniagrofoods.com</a></p>  
 						</div>
 					</div>
 					<div class="sec2contactform">

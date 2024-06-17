@@ -28,9 +28,11 @@
 
 <body>
 
-<!------------------------------------------------------------------------------------------------
+    <!------------------------------------------------------------------------------------------------
                                         SLIDER SECTION MAIN START
 -------------------------------------------------------------------------------------------------->
+
+
 
     <section class="rv-20-banner_section swiper">
         <div class="swiper-wrapper">
@@ -104,9 +106,9 @@
     </section>
 
 
- 
 
-<!------------------------------------------------------------------------------------------------
+
+    <!------------------------------------------------------------------------------------------------
                                         SLIDER SECTION MAIN START
 -------------------------------------------------------------------------------------------------->
 
@@ -115,36 +117,36 @@
 
 
 
-<!------------------------------------------------------------------------------------------------
+    <!------------------------------------------------------------------------------------------------
                                         SECTION TWO START
 -------------------------------------------------------------------------------------------------->
 
-            <section class="rv-20-service_section">
-                <div class="container sectionTwo">
-                    <div class="row justify-content-center" data-aos="fade-down">
-                        <div class="indexPageText">
-                            <div class="rv-20-service_section_heading">
-                                <h3>Step into the World of Organics!</h3>
-                                    <h2 style="color:#72981d"><strong>Let the first step be firmly anchored!</strong></h2>
-                                        <p><b>Sanjeevani Agrofoods Limited</b> is a leading Brand in Organic Farming. We are Largest
-                                            producers and exporters of Certified Organic Food – Pulses, Cereals, Dairy Products, Indian
-                                            Spices, Honey, Tea, Frozen Vegetables and Many More.</p>
-                            </div>
-                        </div>
+    <section class="rv-20-service_section">
+        <div class="container sectionTwo">
+            <div class="row justify-content-center" data-aos="fade-down">
+                <div class="indexPageText">
+                    <div class="rv-20-service_section_heading">
+                        <h3>Step into the World of Organics!</h3>
+                        <h2 style="color:#72981d"><strong>Let the first step be firmly anchored!</strong></h2>
+                        <p><b>Sanjeevani Agrofoods Limited</b> is a leading Brand in Organic Farming. We are Largest
+                            producers and exporters of Certified Organic Food – Pulses, Cereals, Dairy Products, Indian
+                            Spices, Honey, Tea, Frozen Vegetables and Many More.</p>
                     </div>
                 </div>
-            </section>
-  <!------------------------------------------------------------------------------------------------
+            </div>
+        </div>
+    </section>
+    <!------------------------------------------------------------------------------------------------
                                      SECTION TWO END
---------------------------------------------------------------------------------------------------> 
+-------------------------------------------------------------------------------------------------->
 
 
 
 
-   
- <!------------------------------------------------------------------------------------------------
+
+    <!------------------------------------------------------------------------------------------------
                             SECTION THREE START IMAGE BACKGROUND
---------------------------------------------------------------------------------------------------> 
+-------------------------------------------------------------------------------------------------->
 
     <section class="rv-20-service_section">
         <div class="container-fluid">
@@ -270,9 +272,9 @@
         <span class="service-sh-2"><img src="https://i.postimg.cc/kG77tpRp/home-6-service-5.png"
                 alt="Sanjeevani agrofoods / www.barsanamagic.com"></span>
     </section>
-     <!------------------------------------------------------------------------------------------------
+    <!------------------------------------------------------------------------------------------------
                             SECTION THREE END IMAGE BACKGROUND
---------------------------------------------------------------------------------------------------> 
+-------------------------------------------------------------------------------------------------->
 
 
 
@@ -283,12 +285,12 @@
      ------------------------------------------------------------------------------------------>
     <div class="container">
         <div class="mobileViewHeading">
-        <h2 class="p-5 text-center text-success rv-20-price_section_title rv-text-anime special">
-        SANJEEVANI ORGANICS EXPORT PROCESS</h2>
+            <h2 class="p-5 text-center text-success rv-20-price_section_title rv-text-anime special">
+                SANJEEVANI ORGANICS EXPORT PROCESS</h2>
         </div>
         <div class="linee"></div>
 
-        <div class="col-12 d-flex p-5 processBox">
+        <div class="col-12 d-flex processBox">
             <div class="mobileViewImage">
                 <img src="https://img.freepik.com/free-vector/colorful-farming-concept_1284-39258.jpg?t=st=1718604387~exp=1718607987~hmac=0520b01a48a4e2876dfa7c38ab0f2659d9eaef527af6c5c4cef799234de5d99e&w=740"
                     alt="Organic Agriculture ecological production management" class="rounded mr-5">
@@ -298,7 +300,7 @@
                     <!-- <img src="assets/img/services/home-6-service-icon-4-PhotoroomNew.png"
                         alt="Sanjeevani Organic processing/www.barsanamagic.com" class="iconImg"> -->
                     <div class="rv-20-single_service_content_title">
-                        <h4 class="mt-5">PROCESSING</h4>
+                        <h4 class="mt-5 text-center">PROCESSING</h4>
                     </div>
                 </div>
                 <div class="hidden-part">
@@ -306,7 +308,8 @@
                         facilities certified to organic standards. These certifications ensure compliance
                         with stringent regulations, including the exclusion of synthetic pesticides, GMOs,
                         and adherence to environmentally sustainable practices.</p>
-                    <a href="service-details.html" class="rv-20-service_btn btn btn-outline-success"> <span class="rv-20-service_btn_txt">Read
+                    <a href="service-details.html" class="rv-20-service_btn btn btn-outline-success"> <span
+                            class="rv-20-service_btn_txt">Read
                             More</span> </a>
                 </div>
                 <div class="fontBottam">
@@ -316,11 +319,11 @@
 
         </div>
 
-        <div class="col-12 d-flex p-5 processBox">
+        <div class="col-12 d-flex processBox">
             <div class="processBoxTwo">
                 <div class="rv-20-single_service_icon d-flex">
-                    <img src="assets/img/services/home-6-service-icon-5_processed.png"
-                        alt="Sanjeevani Organic processing / www.barsanamagic.com" class="iconImg">
+                    <!-- <img src="assets/img/services/home-6-service-icon-5_processed.png"
+                        alt="Sanjeevani Organic processing / www.barsanamagic.com" class="iconImg"> -->
                     <div class="rv-20-single_service_content_title">
                         <h4 class="mt-5">PRIVATE LABELLING</h4>
                     </div>
@@ -331,8 +334,9 @@
                         companies around the world. We have the capability to produce products based on your
                         Requirements from our large assortment of products available for immediate
                         production.</p>
-                    <a href="service-details.html" class="rv-20-service_btn btn btn-outline-success"> <span class="rv-20-service_btn_txt">Read
-                            More</span> <i class="fal fa-arrow-right"></i></a>
+                    <a href="service-details.html" class="rv-20-service_btn btn btn-outline-success"> <span
+                            class="rv-20-service_btn_txt">Read
+                            More</span></a>
                 </div>
                 <div class="fontBottam">
                     <h3>SANJEEVANI ORGANICS</h3>
@@ -346,17 +350,17 @@
         </div>
 
 
-        <div class="col-12 d-flex p-5 processBox">
+        <div class="col-12 d-flex processBox">
             <div class="mobileViewImage">
-                <img src="https://i.postimg.cc/057v0P8K/home-6-service-8.png"
+                <img src="https://img.freepik.com/free-vector/transportation-cargo-merchandise-ship-cartoon_18591-52446.jpg?t=st=1718608400~exp=1718612000~hmac=59c31a0bb6f1e321891d953e08f857a308297b63301c79cd87fa4d9715c3fc89&w=826"
                     alt="Organic Agriculture ecological production management" class="rounded">
             </div>
             <div class="processBoxTwo">
                 <div class="rv-20-single_service_icon d-flex">
-                    <img src="assets/img/services/home-6-service-icon-5_processed.png"
-                        alt="Sanjeevani Organic processing / www.barsanamagic.com">
+                    <!-- <img src="assets/img/services/home-6-service-icon-5_processed.png"
+                        alt="Sanjeevani Organic processing / www.barsanamagic.com"> -->
                     <div class="rv-20-single_service_content_title">
-                        <h4 class="mt-5 text-white">EXPORT</h4>
+                        <h4 class="mt-5">EXPORT</h4>
                     </div>
                 </div>
                 <div class="hidden-part">
@@ -364,8 +368,8 @@
                         are now available in Bulk or White Label across the globe through our Export Sales
                         office at Head Office (+91 7895330903) or can be contacted at Sanjeevai USA Sales
                         Division, New Jersey, USA (+1 732-4213988).</p>
-                    <a href="#" class="rv-20-service_btn btn btn-outline-success"> <span class="rv-20-service_btn_txt">Read More</span> <i
-                            class="fal fa-arrow-right"></i></a>
+                    <a href="#" class="rv-20-service_btn btn btn-outline-success">
+                        <span class="rv-20-service_btn_txt">Read More</span></a>
                 </div>
                 <div class="fontBottam">
                     <h3>SANJEEVANI ORGANICS</h3>
@@ -383,13 +387,22 @@
     <!-----------------------------------------------------------------------------------------
                             SANJEEVANI DAIRY PRODUCT SECTION START 
      ------------------------------------------------------------------------------------------>
+
+    <div class="bannerimagecontainer">
+      
+        <div class="overlay-text char">Organic <span style="color:#72981d">Dairy</span> Farming </div>
+    </div>
+
+
+
     <section class="rv-20-about_section m-5">
         <div class="">
             <div class="row">
                 <div class="col-md-12 col-lg-6 col-xl-7">
                     <div class="rv-20-about_section_content" data-aos="fade-up">
                         <div class="rv-20-about_section_heading">
-                            <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Dairy Farming</p>
+                            <!-- <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Dairy
+                                Farming</p> -->
                             <h2 class="rv-20-about_section_title rv-text-anime special">DAIRY PRODUCTS</h2>
                             <div class="linee"></div>
                         </div>
@@ -403,7 +416,7 @@
                                             href="https://www.barsanamagic.com/blogs/view_detail/indian-cow-milk-1">Read
                                             More or Buy Now</a></p>
                                 </div>
-                                
+
                             </div>
                             <div class="rv-20-about_content_single_top_actions">
                                 <div class="rv-20-about_content_single_top_actions_left">
@@ -414,7 +427,7 @@
                                             href="https://www.barsanamagic.com/blogs/view_detail/organic-bilona-ghee-1">Read
                                             More or Buy Now</a></p>
                                 </div>
-                               
+
                             </div>
                         </div>
 
@@ -469,7 +482,7 @@
         <span class="about-sh-6"> <img src="https://i.postimg.cc/44v9P8Lb/home-6-about-3.png"
                 alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com"></span>
     </section>
-      <!-----------------------------------------------------------------------------------------
+    <!-----------------------------------------------------------------------------------------
                             SANJEEVANI DAIRY PRODUCT SECTION END 
      ------------------------------------------------------------------------------------------>
 
@@ -482,12 +495,12 @@
             <div class="row align-items-center">
                 <div class="col-md-7 col-lg-7 col-sm-7">
                     <div class="rv-20-video_section_heading" data-aos="fade-up">
-                       <a href="https://www.barsanamagic.com/" class="btn btn-outline-success text-white"> More
-                                Information</a>
-                                <div class="videoHeading">
-                                    "Crafted By Organic Means For Your Utmost
-                                    Care "
-                                </div>
+                        <a href="https://www.barsanamagic.com/" class="btn btn-outline-success text-white"> More
+                            Information</a>
+                        <div class="videoHeading">
+                            "Crafted By Organic Means For Your Utmost
+                            Care "
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-5 col-lg-5 col-sm-5">
@@ -499,11 +512,11 @@
             </div>
         </div>
     </section>
-  <!------------------------------------------------------------------------------------------
+    <!------------------------------------------------------------------------------------------
                                          START  VIDEO SECTION 
     ------------------------------------------------------------------------------------------->
 
-   <!-----------------------------------------------------------------------------------------
+    <!-----------------------------------------------------------------------------------------
                                          START  OUR PARTNER SECTION
     ----------------------------------------------------------------------------------------->
     <section class="rv-20-testimonial_section" data-aos="fade-up">
@@ -536,7 +549,8 @@
                     <div class="row justify-content-center">
                         <div class="col-md-12">
                             <div class="rv-20-price_section_heading " data-aos="fade-down">
-                                <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Farming</p>
+                                <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Farming
+                                </p>
                                 <h2 class="rv-20-price_section_title rv-text-anime">NATURE INSPIRES!</h2>
                                 <h3>Our motto: Protect Farmers, Planet and YOU !</h3>
                                 <p class="p-5 textSmall">"Harmony with nature, sustainability at heart. Organic farming
@@ -792,7 +806,7 @@
         </div>
     </div>
 
-     <!---------------------------------------------------------------------------------------
+    <!---------------------------------------------------------------------------------------
                                  SECTION START NATURE INSPIRES! 
     ---------------------------------------------------------------------------------------->
 
@@ -806,201 +820,201 @@
                                          START PRICE SECTION 
     ------------------------------------------------------------------------------------------>
     <section class="rv-20-price_section">
-       
+
         <div class="container-fulid">
-        <div class="box">
-            <div class="col-12 d-flex flex-row flex-wrap">
-                <div class="col-lg-4">
-                    <div class="card items">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/zBHKj8Lx/home-6-portfolio-1.png" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                HEAD-OFFICE
+            <div class="box">
+                <div class="col-12 d-flex flex-row flex-wrap">
+                    <div class="col-lg-4">
+                        <div class="card items">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/zBHKj8Lx/home-6-portfolio-1.png" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    HEAD-OFFICE
+                                </div>
+                                <div class="designation">Sanjeevani Agrofoods</div>
                             </div>
-                            <div class="designation">Sanjeevani Agrofoods</div>
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                At Sanjeevani Organics, the farming is not only agriculture practice but
-                                its holistic approach for sustainable development. Sanjeevani does not
-                                only work for commercial activity to grow crop but to make farmers more
-                                educated and concern for their generation to come. On the same time
-                                income of the farmer increases substantially whereas their living
-                                standards also being taken care by CSR at Sanjeevani Organics. In
-                                Sustainable approach model all stake holders grow together and company
-                                expand its market globally.
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    At Sanjeevani Organics, the farming is not only agriculture practice but
+                                    its holistic approach for sustainable development. Sanjeevani does not
+                                    only work for commercial activity to grow crop but to make farmers more
+                                    educated and concern for their generation to come. On the same time
+                                    income of the farmer increases substantially whereas their living
+                                    standards also being taken care by CSR at Sanjeevani Organics. In
+                                    Sustainable approach model all stake holders grow together and company
+                                    expand its market globally.
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/wMBFHS3J/home-6-portfolio-2.png" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                Organic Pulses (UNIT)
-                            </div>
+                    <div class="col-lg-4">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/wMBFHS3J/home-6-portfolio-2.png" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    Organic Pulses (UNIT)
+                                </div>
 
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                Organic Pulses Suppliers Pulses are also known as legumes or lentils.
-                                Pulses are seeds from the legume plant family and lentils are a pulse.
-                                Legumes (beans) are among the oldest cultivated plants.
-                                Arhar Dal (Pigeon Pea), Chana Whole (Bengal Gram), Chana Dal (Bengal Gram
-                                Dal), Chana Besan (Gram Flour), Chickpea (Kabuli Channa), Masoor Whole
-                                (Black Lentil), Masoor Malka (Pink Lentil), Masoor Dal, Moong Whole
-                                (Green Gram), Moong Split Chilka, Moong Split Washed, Rajma Red (Red
-                                Kidney Beans), Rajma Chitra, Rajma Jammu, Urad Whole (Black Gram), Urad
-                                Split Chilka, Urad Dal Dhuli
+                            </div>
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    Organic Pulses Suppliers Pulses are also known as legumes or lentils.
+                                    Pulses are seeds from the legume plant family and lentils are a pulse.
+                                    Legumes (beans) are among the oldest cultivated plants.
+                                    Arhar Dal (Pigeon Pea), Chana Whole (Bengal Gram), Chana Dal (Bengal Gram
+                                    Dal), Chana Besan (Gram Flour), Chickpea (Kabuli Channa), Masoor Whole
+                                    (Black Lentil), Masoor Malka (Pink Lentil), Masoor Dal, Moong Whole
+                                    (Green Gram), Moong Split Chilka, Moong Split Washed, Rajma Red (Red
+                                    Kidney Beans), Rajma Chitra, Rajma Jammu, Urad Whole (Black Gram), Urad
+                                    Split Chilka, Urad Dal Dhuli
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/sXb1DWgc/home-6-portfolio-3.png" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                Organic Farming
-                            </div>
-                            <div class="designation mt-2">Frozen Vegetable</div>
+                    <div class="col-lg-4">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/sXb1DWgc/home-6-portfolio-3.png" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    Organic Farming
+                                </div>
+                                <div class="designation mt-2">Frozen Vegetable</div>
 
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                Sanjeevani Organics 'Frozen food and frozen vegetable' is concept being
-                                adapted in the present kitchen practices. It’s high time that the
-                                concept of convenience at kitchen is picking up. As a matter of fact
-                                that the basic food remain same as raw ingredients, the only value
-                                addition is either with recipe or presentation. In presentation the
-                                "packing and self-life control" are covered but in recipe other lot of
-                                factors are involved beyond the collection of ingredients. “Convenience
-                                at Kitchen” comes under the category of value addition in your cooking
-                                methodology.
+                            </div>
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    Sanjeevani Organics 'Frozen food and frozen vegetable' is concept being
+                                    adapted in the present kitchen practices. It’s high time that the
+                                    concept of convenience at kitchen is picking up. As a matter of fact
+                                    that the basic food remain same as raw ingredients, the only value
+                                    addition is either with recipe or presentation. In presentation the
+                                    "packing and self-life control" are covered but in recipe other lot of
+                                    factors are involved beyond the collection of ingredients. “Convenience
+                                    at Kitchen” comes under the category of value addition in your cooking
+                                    methodology.
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="col-lg-4 mt-1">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/15XfQ5Jt/Slider03.webp" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                Barsana Magic Cow Milk
+                    <div class="col-lg-4 mt-1">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/15XfQ5Jt/Slider03.webp" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    Barsana Magic Cow Milk
+                                </div>
+                                <div class="designation mt-3">Organic Milk</div>
                             </div>
-                            <div class="designation mt-3">Organic Milk</div>
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                Barsana is a small town (Tehesil) located in dist Mathura, Uttar Pradesh.
-                                This region is also known as Braj Bhumi. The place is birth place of
-                                goddesses Radharani and consort of Lord Krishna. In this region people
-                                domesticate animals especially cows religiously. They raise the animal
-                                in worship of Lord Krishna. Lord Krishna’s love for cows and dairy
-                                product is well known.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-1">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/d1McPxqx/home-6-about-1.png" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                About Barsana Magic
-                            </div>
-                            <div class="designation mt-2">Barsana Magic</div>
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                Barsana Magic Organic Cow milk is initiative of Sanjeevani Agrofoods
-                                Limited to serve the consumer with quality milk from Indian breed cows..
-                                In this region people domesticate animals especially cows religiously.
-                                They raise the animal in worship of Lord Krishna. Lord Krishna’s love
-                                for cows and dairy product is well known. Sanjeevani Organics is doing
-                                project with the farmer of Braj region in Organic Farming as well as
-                                livestock organic farming. In this project farmers are being trained for
-                                Organic farming practices whereas the domestication of animal is also
-                                part of the project.
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    Barsana is a small town (Tehesil) located in dist Mathura, Uttar Pradesh.
+                                    This region is also known as Braj Bhumi. The place is birth place of
+                                    goddesses Radharani and consort of Lord Krishna. In this region people
+                                    domesticate animals especially cows religiously. They raise the animal
+                                    in worship of Lord Krishna. Lord Krishna’s love for cows and dairy
+                                    product is well known.
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 mt-1">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/sXb1DWgc/home-6-portfolio-3.png" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                Organic Agriculture
+                    <div class="col-lg-4 mt-1">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/d1McPxqx/home-6-about-1.png" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    About Barsana Magic
+                                </div>
+                                <div class="designation mt-2">Barsana Magic</div>
                             </div>
-                            <div class="designation">Organic Farming</div>
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                Organic farming practices whereas the domestication of animal is also
-                                part of the project. These Projects are certified Organic Agriculture
-                                projects under the norms of NPOP and USADA NOP Organic standards. The
-                                Sanjeevai Agrofoods Limited is operating its Organic agriculture project
-                                across the country and improving not only the farmers life but also
-                                preserving planet.
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    Barsana Magic Organic Cow milk is initiative of Sanjeevani Agrofoods
+                                    Limited to serve the consumer with quality milk from Indian breed cows..
+                                    In this region people domesticate animals especially cows religiously.
+                                    They raise the animal in worship of Lord Krishna. Lord Krishna’s love
+                                    for cows and dairy product is well known. Sanjeevani Organics is doing
+                                    project with the farmer of Braj region in Organic Farming as well as
+                                    livestock organic farming. In this project farmers are being trained for
+                                    Organic farming practices whereas the domestication of animal is also
+                                    part of the project.
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                    <div class="col-lg-4 mt-1">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/sXb1DWgc/home-6-portfolio-3.png" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    Organic Agriculture
+                                </div>
+                                <div class="designation">Organic Farming</div>
+                            </div>
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    Organic farming practices whereas the domestication of animal is also
+                                    part of the project. These Projects are certified Organic Agriculture
+                                    projects under the norms of NPOP and USADA NOP Organic standards. The
+                                    Sanjeevai Agrofoods Limited is operating its Organic agriculture project
+                                    across the country and improving not only the farmers life but also
+                                    preserving planet.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-                <div class="col-lg-4 mt-1">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/15XfQ5Jt/Slider03.webp" alt="" class="profile">
-                            <div class="text-uppercase name">
-                                Organic Pulses
+                    <div class="col-lg-4 mt-1">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/15XfQ5Jt/Slider03.webp" alt="" class="profile">
+                                <div class="text-uppercase name">
+                                    Organic Pulses
+                                </div>
+                                <div class="designation">PULSES</div>
                             </div>
-                            <div class="designation">PULSES</div>
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                Organic Pulses Suppliers Pulses are also known as legumes or lentils.
-                                Pulses are seeds from the legume plant family and lentils are a pulse.
-                                Legumes (beans) are among the oldest cultivated plants. In fact, fossil
-                                records demonstrate that prehistoric people domesticated and cultivated
-                                legumes for food. Today, this extremely large category of vegetables
-                                contains over 13,000 species and is second only to grains in supplying
-                                calories and protein to the world's population. There are various types
-                                of pulses which differ in colour, shape, size and taste. Pulses are
-                                important food crops due to their high protein and essential amino acid
-                                content.
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    Organic Pulses Suppliers Pulses are also known as legumes or lentils.
+                                    Pulses are seeds from the legume plant family and lentils are a pulse.
+                                    Legumes (beans) are among the oldest cultivated plants. In fact, fossil
+                                    records demonstrate that prehistoric people domesticated and cultivated
+                                    legumes for food. Today, this extremely large category of vegetables
+                                    contains over 13,000 species and is second only to grains in supplying
+                                    calories and protein to the world's population. There are various types
+                                    of pulses which differ in colour, shape, size and taste. Pulses are
+                                    important food crops due to their high protein and essential amino acid
+                                    content.
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 mt-1">
-                    <div class="card">
-                        <div class="face front-face">
-                            <img src="https://i.postimg.cc/d1McPxqx/home-6-about-1.png" alt="" class="profile">
-                            <div class="pt-3 text-uppercase name">
-                                Organic Ghee
+                    <div class="col-lg-4 mt-1">
+                        <div class="card">
+                            <div class="face front-face">
+                                <img src="https://i.postimg.cc/d1McPxqx/home-6-about-1.png" alt="" class="profile">
+                                <div class="pt-3 text-uppercase name">
+                                    Organic Ghee
+                                </div>
+                                <div class="designation mt-2">Indian Cow Ghee</div>
                             </div>
-                            <div class="designation mt-2">Indian Cow Ghee</div>
-                        </div>
-                        <div class="face back-face">
-                            <div class="testimonial">
-                                With a firm determination and consistency in the implementation of the
-                                objectives, Sanjeevani gives you pure organic indian cow-ghee which is
-                                neither adulterated nor contaminated and is made from cow’s pure and
-                                fresh milk using the traditional standards at an unbeatable competition.
-                                Therefore, it is beneficial in retaining a good health .
-                            </div> 
+                            <div class="face back-face">
+                                <div class="testimonial">
+                                    With a firm determination and consistency in the implementation of the
+                                    objectives, Sanjeevani gives you pure organic indian cow-ghee which is
+                                    neither adulterated nor contaminated and is made from cow’s pure and
+                                    fresh milk using the traditional standards at an unbeatable competition.
+                                    Therefore, it is beneficial in retaining a good health .
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        </div>
     </section>
 
-    
+
     <!----------------------------------------------------------------------------------------
                                          START PRICE SECTION 
 
@@ -1008,142 +1022,146 @@
     ------------------------------------------------------------------------------------------>
 
 
- <!-------------------------------------------------------------------------------------------
+    <!-------------------------------------------------------------------------------------------
                                  START INDEX-20 CONTACT SECTION 
    ------------------------------------------------------------------------------------------->
     <section class="rv-20-contact_main_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-5">
-                        <div class="rv-20-contact_image" data-aos="fade-up">
-                            <img src="https://i.postimg.cc/W1XTzVff/home-6-1.png"
-                                alt="Sanjeevani Organic  / Barsana Magic Organic Dairy Products" class="profile">
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-7">
-                        <div class="rv-20-contact_form_area" data-aos="fade-up">
-                            <div class="rv-20-contact_section_heading">
-                                <p class="badge badge-success text-white fs-3 fst-italic"> <span></span>Get in Touch</p>
-                                <h2 class="rv-20-contact_section_title rv-text-anime">Get Us To Call You Back</h2>
-                            </div>
-                            <form method="post" class="rv-20-contact_form" action="mail.php">
-                                <div class="row rv-20-form_row">
-                                    <div class="">
-                                        <input type="text" class="form-control" placeholder="Full Name" name="name" required>
-                                    </div>
-                                    <div class="">
-                                        <input type="text" class="form-control" placeholder="Phone Number" name="phone" required>
-                                    </div>
-                                </div>
-                                <div class="row rv-20-form_row">
-                                    <div class="">
-                                        <input type="email" class="form-control" placeholder="Email Address" name="email" required>
-                                    </div>
-                                    <div class="">
-                                        <input type="text" class="form-control" placeholder="Choose Services" name="services" required>
-                                    </div>
-                                </div>
-                                <textarea placeholder="Your Message" name="message"></textarea>
-                                <div class="rv-20-contact_form_button">
-                                    <button>Send Message <i class="fas fa-arrow-right"></i></button>
-                                </div>
-                            </form>
-                        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-lg-5">
+                    <div class="rv-20-contact_image" data-aos="fade-up">
+                        <img src="https://i.postimg.cc/W1XTzVff/home-6-1.png"
+                            alt="Sanjeevani Organic  / Barsana Magic Organic Dairy Products" class="profile">
                     </div>
                 </div>
-
+                <div class="col-md-12 col-lg-7">
+                    <div class="rv-20-contact_form_area" data-aos="fade-up">
+                        <div class="rv-20-contact_section_heading">
+                            <p class="badge badge-success text-white fs-3 fst-italic"> <span></span>Get in Touch</p>
+                            <h2 class="rv-20-contact_section_title rv-text-anime">Get Us To Call You Back</h2>
+                        </div>
+                        <form method="post" class="rv-20-contact_form" action="mail.php">
+                            <div class="row rv-20-form_row">
+                                <div class="">
+                                    <input type="text" class="form-control" placeholder="Full Name" name="name"
+                                        required>
+                                </div>
+                                <div class="">
+                                    <input type="text" class="form-control" placeholder="Phone Number" name="phone"
+                                        required>
+                                </div>
+                            </div>
+                            <div class="row rv-20-form_row">
+                                <div class="">
+                                    <input type="email" class="form-control" placeholder="Email Address" name="email"
+                                        required>
+                                </div>
+                                <div class="">
+                                    <input type="text" class="form-control" placeholder="Choose Services"
+                                        name="services" required>
+                                </div>
+                            </div>
+                            <textarea placeholder="Your Message" name="message"></textarea>
+                            <div class="rv-20-contact_form_button">
+                                <button>Send Message <i class="fas fa-arrow-right"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
             </div>
-            <span class="home-6-sh-1"> <img src="https://i.postimg.cc/rs0KCm7m/home-6-sh-1.png"
-                    alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com"></span>
-            <span class="home-6-sh-2"> <img src="https://i.postimg.cc/Pxb6fXSC/home-6-sh-2.png"
-                    alt="sanjeevani organic and barsana magic"></span>
+
+        </div>
+        <span class="home-6-sh-1"> <img src="https://i.postimg.cc/rs0KCm7m/home-6-sh-1.png"
+                alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com"></span>
+        <span class="home-6-sh-2"> <img src="https://i.postimg.cc/Pxb6fXSC/home-6-sh-2.png"
+                alt="sanjeevani organic and barsana magic"></span>
     </section>
-         <!-------------------------------------------------------------------------------------------
+    <!-------------------------------------------------------------------------------------------
                                  START END CONTACT SECTION 
             ------------------------------------------------------------------------------------------->
 
-        
-           <!-------------------------------------------------------------------------------------------
+
+    <!-------------------------------------------------------------------------------------------
                                  START BLOG SECTION
             ------------------------------------------------------------------------------------------->
 
-        <section class="rv-20-blog_section">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-8">
-                        <div class="rv-20-blog_section_heading" data-aos="fade-down">
-                            <p class="rv-20-blog_sub_title rv-text-anime"> <span></span> Blogs and News</p>
-                            <h2 class="rv-20-blog_section_title rv-text-anime">Latest News & Article</h2>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="rv-20-single_blog" data-aos="fade-up">
-                            <div class="rv-20-blog_image">
-                                <img src="https://i.postimg.cc/CMc1PW00/home-6-blog-1.png"
-                                    alt="sanjeevani agrofoods and barsana magic dairy">
-
-                                <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>April 02, 2024
-                                </p>
-                            </div>
-                            <h4 class="rv-20-single_blog_content_title">
-                                <a href="#">BARSANA Magic Dairy Products</a>
-                            </h4>
-                            <p class="rv-20-single_blog_content_desc">You don’t need to drive to a rural farmer to
-                                get fresh milk any longer.
-                            </p>
-                            <a href="https://www.barsanamagic.com/blogs/" class="rv-20-single_blog_btn">Read More <i
-                                    class="far fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="rv-20-single_blog" data-aos="fade-up">
-                            <div class="rv-20-blog_image">
-                                <img src="https://i.postimg.cc/ZKJQRMvW/home-6-blog-2.png"
-                                    alt="www.sanjeevaniagrofoods.com and www.barsanamagic.com">
-
-                                <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>Jan 10, 2024
-                                </p>
-                            </div>
-                            <h4 class="rv-20-single_blog_content_title">
-                                <a href="https://sanjeevaniagrofoods.com/our-strength-our-team.php">Sanjeevani
-                                    Team</a>
-                            </h4>
-                            <p class="rv-20-single_blog_content_desc">Sanjeevani Organics working with ethos and
-                                dedicating its produce to Barsana.
-                            </p>
-                            <a href="http://localhost/sanjeevani/our-strength-our-team.php"
-                                class="rv-20-single_blog_btn">Read More <i class="far fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="rv-20-single_blog" data-aos="fade-up">
-                            <div class="rv-20-blog_image">
-                                <img src="https://i.postimg.cc/3NNnXPX1/home-6-blog-3.png"
-                                    alt="sanjeevani agrofoods and sanjeevani barsana magic dairy products">
-
-                                <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>Feb 25, 2024
-                                </p>
-                            </div>
-                            <h4 class="rv-20-single_blog_content_title">
-                                <a href="#">Our Organic Grocery Products</a>
-                            </h4>
-                            <p class="rv-20-single_blog_content_desc">Organic grocery products are fresher,
-                                healthier & richer in taste.
-                            </p>
-                            <a href="#" class="rv-20-single_blog_btn">Read More <i class="far fa-arrow-right"></i></a>
-                        </div>
+    <section class="rv-20-blog_section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="rv-20-blog_section_heading" data-aos="fade-down">
+                        <p class="rv-20-blog_sub_title rv-text-anime"> <span></span> Blogs and News</p>
+                        <h2 class="rv-20-blog_section_title rv-text-anime">Latest News & Article</h2>
                     </div>
                 </div>
             </div>
-        </section>
+
+            <div class="row">
+                <div class="col-md-6 col-lg-4">
+                    <div class="rv-20-single_blog" data-aos="fade-up">
+                        <div class="rv-20-blog_image">
+                            <img src="https://i.postimg.cc/CMc1PW00/home-6-blog-1.png"
+                                alt="sanjeevani agrofoods and barsana magic dairy">
+
+                            <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>April 02, 2024
+                            </p>
+                        </div>
+                        <h4 class="rv-20-single_blog_content_title">
+                            <a href="#">BARSANA Magic Dairy Products</a>
+                        </h4>
+                        <p class="rv-20-single_blog_content_desc">You don’t need to drive to a rural farmer to
+                            get fresh milk any longer.
+                        </p>
+                        <a href="https://www.barsanamagic.com/blogs/" class="rv-20-single_blog_btn">Read More <i
+                                class="far fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="rv-20-single_blog" data-aos="fade-up">
+                        <div class="rv-20-blog_image">
+                            <img src="https://i.postimg.cc/ZKJQRMvW/home-6-blog-2.png"
+                                alt="www.sanjeevaniagrofoods.com and www.barsanamagic.com">
+
+                            <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>Jan 10, 2024
+                            </p>
+                        </div>
+                        <h4 class="rv-20-single_blog_content_title">
+                            <a href="https://sanjeevaniagrofoods.com/our-strength-our-team.php">Sanjeevani
+                                Team</a>
+                        </h4>
+                        <p class="rv-20-single_blog_content_desc">Sanjeevani Organics working with ethos and
+                            dedicating its produce to Barsana.
+                        </p>
+                        <a href="http://localhost/sanjeevani/our-strength-our-team.php"
+                            class="rv-20-single_blog_btn">Read More <i class="far fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="rv-20-single_blog" data-aos="fade-up">
+                        <div class="rv-20-blog_image">
+                            <img src="https://i.postimg.cc/3NNnXPX1/home-6-blog-3.png"
+                                alt="sanjeevani agrofoods and sanjeevani barsana magic dairy products">
+
+                            <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>Feb 25, 2024
+                            </p>
+                        </div>
+                        <h4 class="rv-20-single_blog_content_title">
+                            <a href="#">Our Organic Grocery Products</a>
+                        </h4>
+                        <p class="rv-20-single_blog_content_desc">Organic grocery products are fresher,
+                            healthier & richer in taste.
+                        </p>
+                        <a href="#" class="rv-20-single_blog_btn">Read More <i class="far fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-        
-            <!-------------------------------------------------------------------------------------------
+
+    <!-------------------------------------------------------------------------------------------
                                  END BLOG SECTION
             ------------------------------------------------------------------------------------------->
-       
+
     <?php include ('footer.php'); ?>

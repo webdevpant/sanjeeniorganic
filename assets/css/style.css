@@ -17462,7 +17462,12 @@ html.lenis {
     width: 250px;
   }
 }
-
+@media  (max-width: 768px) {
+  .rv-20-about_section .rv-20-about_image {
+    height: 250px;
+    width: 100%;
+  }
+}
 .rv-20-about_section .rv-20-about_image img {
   width: 475px;
   -o-object-fit: cover;
@@ -38739,7 +38744,7 @@ html.lenis {
 }
 
 .rv-20-service_section .rv-20-single_service_content_main {
-  background: #fff;
+  background: #def0a6;
   transition: all 0.4s ease;
   padding: 24px 40px 40px;
   position: relative;
@@ -61977,6 +61982,7 @@ index page css start by chandra shekhar pant
   width: 90%;
   margin: 0 auto;
   display: flex;
+  flex-direction: row;
   margin-bottom: 50px;
   height: auto;
 }
@@ -61984,16 +61990,18 @@ index page css start by chandra shekhar pant
   width: 100%
 };
 
-.aboutTwo{
+.aboutTwo .aboutOne{
   width: 100%;
+  border: 2px solid black;
 }
-.aboutItems {
+.aboutTwo .aboutItems {
   max-width: 100%;
   height: auto;
 }
 
 .aboutSection {
   background-color: #f7f8f9;
+  height: 620px;
 }
 .aboutHeading {
   font-size: 20px;
@@ -62003,23 +62011,25 @@ index page css start by chandra shekhar pant
 .aboutSection .aboutHeading h3 {
   font-size: 2.25rem;
   font-weight: 700;
-  color: color-mix(in srgb, lightgray, transparent 20%);
-  margin: 25px 46px;
+  color: 
+color-mix(in srgb, lightgray, transparent 20%);
+  margin: -12px 59px;
+  padding: 45px;
 }
 .aboutDes p {
-  width: 90%;
   width: 90%;
   margin: 0 auto;
   text-align: justify;
   line-height: 2.5em;
-  font-weight: 500;
-  font-size: 13px;
+  font-weight: 600;
+  font-size: 15px;
 }
 .aboutImageSection img {
   position: relative;
-  right: 20px;
-  top: 40px;
-  height: 526px;
+  right: 23px;
+  top: 56px;
+  height: 810px;
+  width: 1012px;
 }
 .aboutItems h3 {
   font-size: 2.5rem;
@@ -62045,7 +62055,7 @@ index page css start by chandra shekhar pant
   .aboutItems h3 {
     color: white;
     width: 90%;
-    font-size: 28px;
+    font-size: 18px;
   }
 }
 
@@ -62058,6 +62068,7 @@ index page css start by chandra shekhar pant
     right: 0px;
     top: 0px;
     height: 526px;
+    width: 100%;
 }
 }
 
@@ -62476,7 +62487,7 @@ select:focus {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   letter-spacing: 2px;
-  color: #455a1a;
+  color: #f9f9f912;
 }
 
 .processBox {
@@ -62516,12 +62527,48 @@ select:focus {
 .hideText h4 {
   color: #d3d3d34f;
 }
+
 .mobileViewImage img {
   width: 800px;
   height: 250px;
   object-fit: contain;
   border-radius: 20px;
+  margin-top: 36px
 }
+.bannerimagecontainer {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  background-color: #8fba28 ;
+}
+
+
+
+.overlay-text {
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  color: #1d2a09;
+  transform: translate(-50%, -50%); 
+  padding: 10px 20px; 
+  font-size: 28px; 
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/*-------------------------------------------------------------------------
+                                    BLOB CSS
+--------------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------------
+                                    BLOB CSS
+--------------------------------------------------------------------------*/
+
+
+
+
+
 /*-------------------------------------
          scroll bar css
 ---------------------------------------*/
@@ -62591,7 +62638,8 @@ select:focus {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 30px;
+  padding: 5px;
+  border-radius: 24px;
 }
 .card .face.front-face img {
   object-fit: inherit;
