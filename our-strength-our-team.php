@@ -24,13 +24,17 @@
     <link rel="canonical" href="our-strength-our-team.php" />
 </head>
 
+
+
+
+
 <!-- BREADCRUMB STARTS HERE -->
-<div class="rv-breadcrumb pt-120">
-    <div class="container">
+<div class="rv-breadcrumb pt-120" style="padding:100px">
+    <div class="container breadcrumbInnerBox">
         <h1 class="rv-breadcrumb__title">About</h1>
 
         <ul class="rv-breadcrumb__nav d-flex justify-content-center">
-            <li><a href="index.html"><i class="fa-solid fa-sharp fa-home"></i>Home</a></li>
+            <li><a href="index.php"><i class="fa-solid fa-sharp fa-home"></i>Home</a></li>
             <li class="current-page"><span class="dvdr"> &#47;</span><span>About us</span></li>
         </ul>
     </div>
@@ -203,7 +207,7 @@
         <div class="col">
             <div class="card card-blue h-100 overflow-hidden shadow bg-white border-0 px-0">
                 <div class="card-shape">
-                    <img src="https://i.postimg.cc/9MqDGhwj/tara-singh.jpg" class="card-img-top" alt="Thomas">
+                    <img src="+" class="card-img-top" alt="Thomas">
                     <div class="custom-shape-divider-bottom-1634717805">
                         <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120"
                             preserveAspectRatio="none">
@@ -245,7 +249,8 @@
                                 settings. Performing managerial roles and supervising all agriculture task
                                 including the activity at Tracenet. Successfully executed the projects in 5
                                 states and now spreading the agriculture activity in 3 countries.</b>
-                        </p>
+                       
+                            </p>
                     </blockquote>
                 </div>
                 <div class="card-footer">

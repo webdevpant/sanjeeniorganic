@@ -28,9 +28,9 @@
 
 <body>
 
-    <!------------------------------------------------------------------------------------------------
+    <!---------------------------------------------------------------------------------------
                                         SLIDER SECTION MAIN START
--------------------------------------------------------------------------------------------------->
+-------------------------------------------------------------------------------------------->
 
 
 
@@ -47,7 +47,7 @@
                                 <h2 class="rv-20-banner_content_heading rv-text-anime wow fadeInUp"
                                     data-wow-delay="3.6s" style="font-size: 19px; margin-bottom: 10px;">"Growing with
                                     Purpose on a sustainable Journey"</h2>
-                                <h3 style="font-size: 17px;"><b>Sanjeevani Agrofoods Limited</b> is a leading Brand in
+                                <h3 style="font-size: 17px;color:white;"><b>Sanjeevani Agrofoods Limited</b> is a leading Brand in
                                     Organic Farming. We are Largest producers and exporters of Certified Organic Food –
                                     Pulses, Cereals, Dairy Products, Indian Spices, Honey, Tea, Frozen Vegetables and
                                     Many More.</h3>
@@ -68,7 +68,7 @@
                                 <h2 class="rv-20-banner_content_heading rv-text-anime wow fadeInUp"
                                     data-wow-delay="3.6s" style="font-size: 19px; margin-bottom: 10px;">"Preserve
                                     earth's essence act now to save our precious soils."</h2>
-                                <h3 style="font-size: 17px;">"A Nation that destroys its soil destroys itself. Green
+                                <h3 style="font-size: 17px;color:white;">"A Nation that destroys its soil destroys itself. Green
                                     Fields and Trees are the lungs of our land, purifying the air and giving fresh
                                     strength to our people.</h3>
                             </div>
@@ -87,7 +87,7 @@
                                 <h2 class="rv-20-banner_content_heading rv-text-anime wow fadeInUp"
                                     data-wow-delay="3.6s" style="font-size: 19px; margin-bottom: 10px;">"Sustainable
                                     Organic Cow Farming Thrives, Prioritizing Health & Environmental Harmony."</h2>
-                                <h3 style="font-size: 17px;">"Organic Feed | No Synthetic Hormones or Antibiotics |
+                                <h3 style="font-size: 17px;color:white;">"Organic Feed | No Synthetic Hormones or Antibiotics |
                                     Access to Pasture | No Genetically Modified Organisms (GMOs) | Environmental
                                     Sustainability"</h3>
                             </div>
@@ -387,12 +387,12 @@
     <!-----------------------------------------------------------------------------------------
                             SANJEEVANI DAIRY PRODUCT SECTION START 
      ------------------------------------------------------------------------------------------>
-
-    <div class="bannerimagecontainer">
-      
-        <div class="overlay-text char">Organic <span style="color:#72981d">Dairy</span> Farming </div>
+    <div class="bannerMain">
+        <div class="bannerimageOrganicFarming container-fulid">
+            <img src="" alt="">
+            <div class="badge badge-success text-white fs-3 fst-italic">Organic Dairy Farming </div>
+        </div>
     </div>
-
 
 
     <section class="rv-20-about_section m-5">
@@ -537,6 +537,17 @@
     ----------------------------------------------------------------------------------------->
 
 
+    <div class="bannerMain">
+        <div class="bannerimage container-fulid">
+            <div class="col-md-12 rv-20-price_section">
+                <img src="" alt="">
+                <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Farming
+                </p>
+                <h2 class="rv-20-price_section_title rv-text-anime">NATURE INSPIRES!</h2>
+            </div>
+        </div>
+    </div>
+
 
 
     <!---------------------------------------------------------------------------------------
@@ -545,21 +556,21 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12 rv-20-price_section">
-                <div class="">
-                    <div class="row justify-content-center">
-                        <div class="col-md-12">
-                            <div class="rv-20-price_section_heading " data-aos="fade-down">
-                                <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Farming
+
+                <div class="row justify-content-center">
+                    <div class="col-md-12">
+                        <div class="rv-20-price_section_heading " data-aos="fade-down">
+                            <!-- <p class="badge badge-success text-white fs-3 fst-italic"> <span></span> Organic Farming
                                 </p>
-                                <h2 class="rv-20-price_section_title rv-text-anime">NATURE INSPIRES!</h2>
-                                <h3>Our motto: Protect Farmers, Planet and YOU !</h3>
-                                <p class="p-5 textSmall">"Harmony with nature, sustainability at heart. Organic farming
-                                    nourishes the earth,
-                                    cultivates health, and champions a future of abundance."</p>
-                            </div>
+                                <h2 class="rv-20-price_section_title rv-text-anime">NATURE INSPIRES!</h2> -->
+                            <h3 class="mt-3">Our motto: Protect Farmers, Planet and YOU !</h3>
+                            <p class="p-5 textSmall">"Harmony with nature, sustainability at heart. Organic farming
+                                nourishes the earth,
+                                cultivates health, and champions a future of abundance."</p>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
 
@@ -820,7 +831,6 @@
                                          START PRICE SECTION 
     ------------------------------------------------------------------------------------------>
     <section class="rv-20-price_section">
-
         <div class="container-fulid">
             <div class="box">
                 <div class="col-12 d-flex flex-row flex-wrap">

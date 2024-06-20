@@ -19,12 +19,12 @@
 </head>
 
 <!-- BREADCRUMB STARTS HERE -->
-<div class="rv-breadcrumb pt-120">
-    <div class="container">
+<div class="rv-breadcrumb pt-120" style="padding:100px;">
+    <div class="container breadcrumbInnerBox">
         <h1 class="rv-breadcrumb__title">Contact</h1>
 
         <ul class="rv-breadcrumb__nav d-flex justify-content-center">
-            <li><a href="index.html"><i class="fa-solid fa-sharp fa-home"></i> Home</a></li>
+            <li><a href="index.php"><i class="fa-solid fa-sharp fa-home"></i> Home</a></li>
             <li class="current-page"><span class="dvdr"> &#47;</span><span>Contact</span></li>
         </ul>
     </div>
@@ -35,7 +35,6 @@
 <!-------------------------------------------START CONTACT US FORM----------------------------------------->
 <div class="container">
 		<div class="innerwrap">
-	
 			<section class="section1 clearfix">
 				<div class="textcenter">
 					<span class="shtext">Contact Us</span>

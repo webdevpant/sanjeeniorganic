@@ -19,23 +19,17 @@
     <link rel="stylesheet" href="assets/vendor/aos/aos.css">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!-- <link rel="stylesheet" defer href="assets/css/primary.css"> -->
+    <link rel="stylesheet" defer href="assets/css/primary.css">
     <link rel="shortcut icon" href="assets/img/apple-touch-icon-72.png">
     <link rel="shortcut icon" href="assets/img/favicon.png">
     
     <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css" rel="stylesheet"/>
 
-<!-- google font -->
 
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> -->
-
-<!-- google font end -->
 
     <style>
         .rv-20-banner_section .rv-20-banner_slide {
-              background: url(https://i.postimg.cc/MHTXX5Bb/home-6-banner-bg-1.jpg) no-repeat center center;
+              background: url(https://i.postimg.cc/PrVCRSPM/main-banner-amit.png) no-repeat center center;
                 background-size: auto;
               background-size: cover;
               position: relative;
@@ -109,7 +103,7 @@
     <!-- OVERLAY -->
     <div class="rv-overlay"></div>
     <!-- OVERLAY -->
-
+    <a id="button"></a>
     <!-- SEARCH FORM -->
     <div class="rv-search-modal">
         <form action="#">
@@ -152,9 +146,9 @@
         <div class="rv-20-header-bottom to-be-fixed">
             <div class="container navHeader">
                 <div class="row align-items-center">
-                    <div class="col-lg-3 col-4 col-xxs-6">
+                    <div class="col-lg-3 col-4 col-xxs-6 sanjeevniLogo">
                         <div class="rv-1-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/img/logo.png" alt="logo" class="logo">
                             </a>
                         </div>
@@ -164,11 +158,12 @@
                     <div class="col-md-6 order-2 order-lg-1">
                         <div class="rv-1-header-nav__sidebar">
                             <div class="sidebar-heading d-lg-none d-flex align-items-center justify-content-between">
-                                <a href="index.html" class="logo-container"><img src="assets/img/rv-20-logo.png" alt="logo"></a>
+                                <a href="index.php" class="logo-container">
+                                    <img src="assets/img/rv-20-logo.png" alt="logo"></a>
                                 <button class="rv-3-def-btn rv-1-header-mobile-menu-btn rv-20-mobile-menu-btn sidebar-close-btn"><i class="fa-regular fa-xmark"></i></button>
                             </div>
 
-                            <div class="rv-1-header__nav rv-20-header__nav">
+                            <div class="rv-1-header__nav rv-20-header__nav sanjeevniNav">
                                 <ul class="justify-content-center">
                                     <li>
                                         
@@ -181,7 +176,7 @@
                                     <li>
                                         <a href="our-strength-our-team.php">About</a>
                                     </li>
-                                      <li><a href="#" target="_blank">Investor</a></li>    
+                                      <li><a href="investor.php" target="_blank">Investor</a></li>    
 
                                   <li>
                                         <a href="certification-standard.php">Certification</a>
@@ -204,7 +199,7 @@
                     <div class="col-lg-3 col-8 col-xxs-6 text-end order-1 order-lg-2">
                         <div class="d-flex justify-content-end">
                             <div class="rv-inner-header-right-btns rv-15-header-right-btns rv-20-header-bottom-right-btns ">
-                                <a href="contact.php" class="d-sm-inline-block d-none btn rounded-pill">Service FAQ's</a>
+                                <a href="barsana-customer-support-help-portel.php" class="d-sm-inline-block d-none btn rounded-pill">Service FAQ's</a>
                             </div>
                             <button class="rv-1-header-mobile-menu-btn rv-3-def-btn rv-20-mobile-menu-btn d-lg-none d-inline-block" id="rv-1-header-mobile-menu-btn"><i class="fa-regular fa-bars"></i></button>
                         </div>

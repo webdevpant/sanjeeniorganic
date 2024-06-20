@@ -150,26 +150,26 @@
                 </div>
             </div>
         </div>
-        
-        <div class="rv-2-footer rv-8-footer-bottom">
-                <img src="assets/img/svg/wave-haikei.svg" alt=""/>
-                <div class="footerEmpty">
-                    <div class="row align-items-center gy-3 footerWave">
-                        <div class="col-md-7">
-                            <p class="rv-2-copyright rv-1-copyright mb-0 text-center text-md-start">&copy; 2024 Designd
-                                By
-                                Sanjeevani Agrofoods Limited All Rights Reserved
 
-                            </p>
-                        </div>
-                        <div class="col-md-5">
-                            <div class="rv-2-footer__nav rv-20-footer-bottom__nav">
-                                <a href="#">Privacy Policy</a>
-                                <a href="#">Term of Service</a>
-                            </div>
+        <div class="rv-2-footer rv-8-footer-bottom">
+
+            <div class="">
+                <div class="row align-items-center gy-3 footerWave">
+                    <div class="col-md-7">
+                        <p class="rv-2-copyright rv-1-copyright mb-0 text-center text-md-start">&copy; 2024 Designd
+                            By
+                            Sanjeevani Agrofoods Limited All Rights Reserved
+
+                        </p>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="rv-2-footer__nav rv-20-footer-bottom__nav">
+                            <a href="#">Privacy Policy</a>
+                            <a href="#">Term of Service</a>
                         </div>
                     </div>
                 </div>
+            </div>
         </div>
 
 
@@ -177,6 +177,21 @@
 <!-- FOOTER SECTION END -->
 
 
+
+<!-- tawk io -->
+ <!--Start of Tawk.to Script-->
+<!-- <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6673b405dd590416e257f245/1i0pvedk0';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script> -->
+<!--End of Tawk.to Script-->
 
 
 <!-- JS FILES -->
@@ -266,6 +281,23 @@
             }
         }
     })
+
+    var btn = $('#button');
+
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > 300) {
+            btn.addClass('show');
+        } else {
+            btn.removeClass('show');
+        }
+    });
+
+    btn.on('click', function (e) {
+        e.preventDefault();
+        $('html, body').animate({ scrollTop: 0 }, '300');
+    });
+
+
 
 </script>
 
