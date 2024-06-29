@@ -46,7 +46,7 @@
   <div class="inverstorMain">
 
     <div class="investorBorder">
-      <a href="board-of-directors.php">
+      <a href="faq-online-order.php">
         <div class="svgIcon" style="margin-left: 30px;">
           <svg fill="#72981D" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 160" enable-background="new 0 0 256 160"
@@ -69,7 +69,7 @@
     </div>
 
     <div class="investorBorder">
-      <a href="#">
+      <a href="faq-online-returns-refunds.php">
         <div class="svgIcon" style="margin-left: 46px;">
           <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#72981D">
             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -94,7 +94,7 @@
 
 
     <div class="investorBorder">
-      <a href="">
+      <a href="faq-magic-shipping-delivery.php">
         <div class="svgIcon" style="margin-left: 59px;">
           <svg height="80px" width="80px" fill="#72981D" viewBox="0 0 32 32" version="1.1"
             xmlns="http://www.w3.org/2000/svg">
@@ -116,7 +116,7 @@
 
 
     <div class="investorBorder">
-      <a href="">
+      <a href="faq-online-barsana-payments.php">
         <div class="svgIcon" style="margin-left: 10px;">
           <svg height="90px" width="90px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
@@ -181,7 +181,7 @@
     </div>
 
     <div class="investorBorder">
-      <a href="">
+      <a href="faq-barsana-magic-stores.php">
         <div class="svgIcon" style="margin-left: 10px;">
           <svg height="60px" width="60px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
@@ -251,7 +251,7 @@
     </div>
 
     <div class="investorBorder">
-      <a href="corporate-governance.php" target="_blank">
+      <a href="faq-farm-related-queries.php" target="_blank">
         <div class="svgIcon" style="margin-left:63px;">
           <svg height:"100px" width:"100px" fill="#72981D" viewBox="0 0 32 32" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg">
             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -285,7 +285,7 @@
 
 
     <div class="investorBorder">
-      <a href="" target="_blank">
+      <a href="faq-corporate-gifting.php" target="_blank">
         <div class="svgIcon" style="margin-left:70px">
           <svg fill="#72981D" height="60px" width="60px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve">
@@ -310,7 +310,7 @@
     </div>
 
     <div class="investorBorder">
-      <a href="faq.php" target="_blank">
+      <a href="" target="_blank">
         <div class="svgIcon" style="margin-left:20px;">
           <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -324,24 +324,15 @@
         </div>
 
         <div class="investorText">
-          <h3 class="mt-2 text-dark" style="width:130px;font-size:23px;">COVID-19</h3>
+          <h3 class="mt-2 text-dark" style="width:130px;font-size:23px;">Snajeevani Products</h3>
         </div>
       </a>
     </div>
 
     <div class="investorBorder">
-    <a href="faq.php" target="_blank">
+    <a href="faq-account-settings.php" target="_blank">
       <div class="svgIcon" style="margin-left:50px;">
-        <svg fill="#72981D" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-          <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-          <g id="SVGRepo_iconCarrier">
-            <title>Account Settings</title>
-            <path
-              d="M9.6,3.32a3.86,3.86,0,1,0,3.86,3.85A3.85,3.85,0,0,0,9.6,3.32M16.35,11a.26.26,0,0,0-.25.21l-.18,1.27a4.63,4.63,0,0,0-.82.45l-1.2-.48a.3.3,0,0,0-.3.13l-1,1.66a.24.24,0,0,0,.06.31l1,.79a3.94,3.94,0,0,0,0,1l-1,.79a.23.23,0,0,0-.06.3l1,1.67c.06.13.19.13.3.13l1.2-.49a3.85,3.85,0,0,0,.82.46l.18,1.27a.24.24,0,0,0,.25.2h1.93a.24.24,0,0,0,.23-.2l.18-1.27a5,5,0,0,0,.81-.46l1.19.49c.12,0,.25,0,.32-.13l1-1.67a.23.23,0,0,0-.06-.3l-1-.79a4,4,0,0,0,0-.49,2.67,2.67,0,0,0,0-.48l1-.79a.25.25,0,0,0,.06-.31l-1-1.66c-.06-.13-.19-.13-.31-.13L19.5,13a4.07,4.07,0,0,0-.82-.45l-.18-1.27a.23.23,0,0,0-.22-.21H16.46M9.71,13C5.45,13,2,14.7,2,16.83v1.92h9.33a6.65,6.65,0,0,1,0-5.69A13.56,13.56,0,0,0,9.71,13m7.6,1.43a1.45,1.45,0,1,1,0,2.89,1.45,1.45,0,0,1,0-2.89Z">
-            </path>
-          </g>
-        </svg>
+      <svg fill="#72981D" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="m47.44 61.66a1 1 0 0 1 1 .91v14.37a3.06 3.06 0 0 1 -2.87 3h-20.49a3.06 3.06 0 0 1 -3-2.88v-14.38a1 1 0 0 1 .91-1h24.5zm29.51 0a1 1 0 0 1 1 .91v14.37a3.06 3.06 0 0 1 -2.87 3h-20.49a3.06 3.06 0 0 1 -3-2.88v-14.38a1 1 0 0 1 .91-1h24.5zm-37.36 4.23-.09.11-5.82 6.32-2.63-2.55a.77.77 0 0 0 -1-.08l-.09.08-1.09 1a.62.62 0 0 0 -.07.9l.07.08 3.73 3.54a1.56 1.56 0 0 0 1.08.45 1.43 1.43 0 0 0 1.09-.45l3.14-3.32.63-.67 3.14-3.31a.78.78 0 0 0 .06-.9l-.06-.08-1.09-1a.76.76 0 0 0 -1-.12zm29.51 0-.1.11-5.82 6.32-2.64-2.55a.75.75 0 0 0 -1-.08l-.09.08-1.09 1a.62.62 0 0 0 -.07.9l.07.08 3.73 3.54a1.54 1.54 0 0 0 1.08.45 1.43 1.43 0 0 0 1.09-.45l3.14-3.32.63-.67 3.14-3.31a.78.78 0 0 0 .06-.9l-.06-.08-1.07-1.01a.76.76 0 0 0 -1-.11zm-23.43-14.41a3 3 0 0 1 2.85 2.87v3.24a1 1 0 0 1 -.84 1h-26.68a1 1 0 0 1 -.94-.9v-3.16a3 3 0 0 1 2.69-3.05h23zm31.48 0a3 3 0 0 1 2.85 2.87v3.24a1 1 0 0 1 -.84 1h-26.73a1 1 0 0 1 -1-.9v-3.16a3 3 0 0 1 2.68-3.05h23zm-15-21.29a1 1 0 0 1 1 .91v14.37a3.06 3.06 0 0 1 -2.87 3.05h-20.44a3.06 3.06 0 0 1 -3.05-2.87v-14.44a1 1 0 0 1 .9-1h24.51zm-7.85 4.22-.09.08-5.82 6.32-2.59-2.56a.76.76 0 0 0 -1-.07l-.09.07-1.08 1a.61.61 0 0 0 -.07.9l.07.08 3.72 3.53a1.56 1.56 0 0 0 1.09.45 1.43 1.43 0 0 0 1.08-.45l3.14-3.31.64-.67 3.13-3.32a.78.78 0 0 0 .06-.9l-.06-.07-1.08-1a.77.77 0 0 0 -1-.08zm7.9-14.41a3.06 3.06 0 0 1 3 2.88v3.23a1 1 0 0 1 -.91 1h-28.52a1 1 0 0 1 -1-.91v-3.14a3.06 3.06 0 0 1 2.87-3h24.56z"></path></g></svg>
       </div>
 
       <div class="investorText">

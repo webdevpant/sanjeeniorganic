@@ -86,7 +86,7 @@
     </div>
 
     <div class="investorBorder">
-      <a href="#">
+      <a href="corporate-announcements.php">
         <div class="svgIcon" style="margin-left:80px;">
           <svg fill="#72981D" viewBox="-499.2 -499.2 2918.40 2918.40" xmlns="http://www.w3.org/2000/svg"
             transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)" stroke="#72981D" stroke-width="44.160000000000004">
@@ -184,7 +184,7 @@
 
 
     <div class="investorBorder">
-      <a href="">
+      <a href="financial-reports.php">
         <div class="svgIcon" style="margin-left:63px;">
           <svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
             viewBox="0 0 512 512" xml:space="preserve" fill="#72981D " stroke="#72981D ">

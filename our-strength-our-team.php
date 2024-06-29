@@ -43,7 +43,7 @@
 
 
 <!------------------------------- ABOUT HEADING SECTION START ---------------------------->
-<section class="rv-1-about rv-section-spacing" data-aos="fade-up">
+<!-- <section class="rv-1-about rv-section-spacing" data-aos="fade-up">
     <div class="container position-relative">
         <div class="row rv-1-about-row g-0">
 
@@ -67,7 +67,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <!------------------------------- ABOUT HEADING SECTION START ---------------------------->
 
 
