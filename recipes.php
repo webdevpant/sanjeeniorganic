@@ -29,7 +29,7 @@
 <body>
     <section>
         <div class="recipesSection">
-            <img src="" alt="">
+           
         </div>
     </section>
     <!----------------------------------------------------------------------------------------
@@ -65,7 +65,7 @@
 
             <div class="recipeAllProduct">
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/badri-ghee.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
                         <a href="productRecipes.php" class="btn btn-outline-success">
                             Recipes
@@ -75,58 +75,67 @@
                 </div>
 
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/immunity-booster.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
 
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/nettle-ghee.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
 
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/turmeric-ghee.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
 
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/masala-ghee.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
 
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/health-booster.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
 
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/organic-ghee.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
                 <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
+                    <img src="assets/img/bilona-ghee.webp" alt="sanjeevni office" class="profile" loading="lazy">
                     <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
+                    <a href="productRecipes.php" class="btn btn-outline-success">
+                            Recipes
+                        </a>
                     </div>
                 </div>
-                <div class="recipeInnerProduct">
-                    <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png" alt="sanjeevni office" class="profile">
-                    <div class="pt-3 text-uppercase text-center">
-                        <button class="btn btn-outline-success">Recipes</button>
-                    </div>
-                </div>
+              
 
             </div>
 

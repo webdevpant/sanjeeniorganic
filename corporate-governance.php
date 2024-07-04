@@ -60,7 +60,9 @@
 </div>
 
 
- 
+<div class="boarddHeading">
+        <a href="investor.php"><i class="fa-solid fa-angles-left"></i> Back</a>
+    </div>
 
 
 </body>

@@ -277,12 +277,12 @@
                      with cross-functional teams to design, develop, and maintain our next generation
                      websites and web tools. You must be comfortable working as part of a team while taking
                      the initiative to take lead on new innovations and projects.</p>
-                  <p>Responsibilities</p>
+                  <h3>Responsibilities</h3>
                   <p>Revise, edit, proofread & optimize web content</p>
                   <p>Work with cross-functionally to enhance overall user experience of our platforms</p>
                   <p>Own various design tasks involved in the web development life cycle from start to
                      finish</p>
-                  <p>Qualifications</p>
+                  <h3>Qualifications</h3>
                   <p>Bachelor's degree or equivalent experience in Computer Science</p>
                   <p>At least 1 - 2 years' of experience using HTML, CSS, and JavaScript</p>
                   <p>Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)
@@ -308,42 +308,75 @@
                   <strong>Corel Draw, Photoshop, Canvas /Illustration / Video Editing </strong>
                </div>
                <div class="careerPage p-3">
-               <h3>Job Description</h3>
-                                 <p>Job Types: Full-time </p>
-                                 <p>Salary: ₹15,000.00 - ₹18,000.00 per month</p>
-                                 <p>Schedule: Day shift</p>
-                                 <p>Education : Bachelor's (Preferred)</p>
-                                 <h3>Experience:</h3>
-                               <ul class="list-group">
-                               <li>CorelDraw : 2 years (Preferred)</li>
-                                 <li class="list-group-item">Photoshop : 2 years (Preferred)</li>
-                                 <li class="list-group-item">Video editing : 2 years (Preferred)</li>
-                                 <li class="list-group-item">Animated video creation: 2 years (Preferred)</li>
-                                 <li class="list-group-item">Photography: 2 years (Preferred)</li>
-                               </ul>
+                  <h3>Job Description</h3>
+                  <p>Job Types: Full-time </p>
+                  <p>Salary: ₹15,000.00 - ₹18,000.00 per month</p>
+                  <p>Schedule: Day shift</p>
+                  <p>Education : Bachelor's (Preferred)</p>
+                  <h3>Experience:</h3>
+                  <ul class="list-group">
+                     <li>CorelDraw : 2 years (Preferred)
+                        <p>Photoshop : 2 years (Preferred)</p>
+                        <p>Video editing : 2 years (Preferred)</p>
+                        <p> Animated video creation: 2 years (Preferred)</p>
+                        <p> Photography: 2 years (Preferred)</p>
+                  </ul>
                </div>
             </div>
          </div>
 
-
          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            <h2 class="accordion-headerc" id="headingTwo">
+               <button class="accordion-button collapsed careerDes bg-success text-white" type="button"
+                  data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                  aria-controls="collapseTwo">
                   Vacancy for Printing & Packing Material Incharge
                </button>
             </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                data-bs-parent="#accordionExample">
                <div class="accordion-body">
-                  <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse
-                  plugin adds the appropriate classes that we use to style each element. These classes control the
-                  overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this
-                  with custom CSS or overriding our default variables. It's also worth noting that just about any HTML
-                  can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  <strong>Printing & Packing Material Incharge </strong>
+               </div>
+               <div class="careerPage p-3">
+                  <h3>Job Description</h3>
+                  <p>We are seeking a highly motivated Printing & Packing Material Incharge to join
+                     our team at Sanjeevani Agrofood Limited.</p>
+                  <p>As the Printing & Packing Material Incharge, you will be responsible for
+                     overseeing the batch printing and packing inventory processes to ensure the
+                     timely and accurate availability of materials and batch printing processes.</p>
+                  <h3>Responsibilities</h3>
+                  <p>Oversee the printing and packaging processes, including material selection,
+                     printing techniques, and quality control measures.</p>
+                  <p>Collaborate with the team to ensure the packaging materials are compatible with
+                     the printing and packing.</p>
+                  <p>Monitor the production schedule to ensure timely delivery of materials to the
+                     production line.</p>
+                  <p>Ensure the printing and packaging equipment is properly maintained and in good
+                     working condition.</p>
+                  <p>Manage the inventory of printing and packaging materials, replenishing stock as
+                     needed.</p>
+                  <p>Train and supervise a team of printing and inventory staff, providing guidance
+                     and support when necessary.</p>
+                  <p>Implement and enforce safety procedures to maintain a safe working environment.
+                  </p>
+                  <h3>Requirements</h3>
+                  <p> Bachelor's degree in a relevant field or equivalent experience.</p>
+                  <p>Proven experience in a printing and packaging role</p>
+                  <p>In-depth knowledge of printing and packaging processes, techniques, and
+                     machinery.</p>
+                  <p>Strong attention to detail and ability to produce accurate and high-quality
+                     materials.</p>
+                  <p>Excellent organizational and time management skills to ensure efficient
+                     production.</p>
+                  <p>Ability to work well under pressure and meet tight deadlines.</p>
+                  <p>Strong communication and interpersonal skills to effectively collaborate with
+                     cross-functional teams.</p>
+                  <h3>Remuneration: Rs. 19000/- (Gross)</h3>
                </div>
             </div>
          </div>
+
 
       </div>
    </section>

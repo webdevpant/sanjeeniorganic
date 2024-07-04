@@ -40,7 +40,7 @@
     ------------------------------------------------------------------------------------------>
     <section>
         <div class="recipesSection mt-2">
-            <img src="" alt="">
+            <img src="" alt="images">
         </div>
     </section>
 

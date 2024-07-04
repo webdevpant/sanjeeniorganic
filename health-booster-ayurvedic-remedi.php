@@ -62,7 +62,7 @@
                 <div class="col-lg-4 col-sm-10 col-md-6">
                     <div class="rv-20-single_service">
                         <div class="rv-20-single_service_iamge">
-                            <img src="https://i.postimg.cc/yY9p2WvR/health-booster.jpg">
+                            <img src="https://i.postimg.cc/yY9p2WvR/health-booster.jpg" alt="logo">
                         </div>
                         <div class="rv-20-single_service_content_main">
                             <div class="visible-part">
@@ -221,7 +221,7 @@
                             <p align="justify">Did you know that Barsana Magic Ayurvedic Ghee can help manage joint pain and inflammation?</p>
                             <div class="hidden-part">
                                 <p align="justify">
-                                <p><a href="???" class="rv-20-service_btn"> <span class="rv-20-service_btn_txt">Read More</span> <i class="fal fa-arrow-right"></i></a></p>
+                                <p><a href="#" class="rv-20-service_btn"> <span class="rv-20-service_btn_txt">Read More</span> <i class="fal fa-arrow-right"></i></a></p>
                               <p><a href="https://www.barsanamagic.com/products/details/organic-bilona-ghee-500ml" class="rv-20-service_btn"> <span class="rv-20-service_btn_txt">Buy Online Now</span> <i class="fal fa-arrow-right"></i></a></p>
                             </div>
                             <h4 class="rv-20-service_drp_txt">BARSANA MAGIC</h4>

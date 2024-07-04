@@ -43,8 +43,9 @@
 
   <!-- heading section -->
 
-  <div class="boarddHeading mt-5">
+  <div class="boarddHeading">
     <h1><i class="fa-thin fa-handshake"></i> Board of Directors</h1>
+    <a href="investor.php"><i class="fa-solid fa-angles-left"></i> Back</a>
   </div>
 
 
@@ -53,7 +54,7 @@
   <section>
     <div class="bordMainBox">
       <div class="mdImage">
-        <img src="https://i.postimg.cc/h4JDBGZc/IMG-0671.jpg" alt="">
+        <img src="assets/img/IMG-0671.jpg" alt="MD Sanjeevani Agro">
       </div>
       <div class="aboutImage">
         <h2>Mr. SHRIKANT SHARMA</h2>
@@ -74,7 +75,7 @@
   <section class="bg-light p-1">
     <div class="bordMainBox">
       <div class="mdImage">
-        <img src="https://i.postimg.cc/L6Fbc38p/tara-singh.jpg" alt="">
+        <img src="assets/img/tara-singh.jpg" alt="Director Sanjeevani Agro">
       </div>
       <div class="aboutImage">
         <h2>Mr. TARA SINGH</h2>
@@ -99,7 +100,7 @@
   <section>
     <div class="bordMainBox">
       <div class="mdImage">
-        <img src="https://i.postimg.cc/2y0pZtxp/vijay-kannojiya.jpg" alt="">
+        <img src="assets/img/vijay-kannojiya.jpg" alt="CEO Sanjeevani Agro">
       </div>
       <div class="aboutImage">
         <h2>Mr. VIJAY KANNOJIYA</h2>
@@ -124,7 +125,7 @@
   <section class="bg-light p-1">
     <div class="bordMainBox">
       <div class="mdImage">
-        <img src="https://i.postimg.cc/9XdtBZbJ/joginder.png" alt="">
+        <img src="assets/img/joginder.png" alt="CFO Sanjeevani Agro">
       </div>
       <div class="aboutImage">
         <h2>Mr. JOGINDAR SINGH</h2>
@@ -149,7 +150,7 @@
   <section>
     <div class="bordMainBox">
       <div class="mdImage">
-        <img src="https://i.postimg.cc/fWFZ4YTs/arti.jpg" alt="">
+        <img src="assets/img/arti.jpg" alt="GM FINANCEC Sanjeevani Agro">
       </div>
       <div class="aboutImage">
         <h2>Mrs. ARTI RAWAT THAPA</h2>
@@ -172,7 +173,7 @@
   <section class="bg-light p-1">
     <div class="bordMainBox">
       <div class="mdImage">
-        <img src="https://i.postimg.cc/d3fcFZML/riya.jpg" alt="">
+        <img src="assets/img/riya.jpg" alt="GM CERTIFICATION Sanjeevani Agro">
       </div>
       <div class="aboutImage">
         <h2>Mrs. RIYA KATHETH</h2>

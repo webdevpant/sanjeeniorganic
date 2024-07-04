@@ -166,7 +166,7 @@
             <!-- buy now button -->
             <div class="faq-button">
                <a href="https://www.barsanamagic.com/">
-                  <img src="assets/img/faq-buyNow.jpeg" alt="">
+                  <img src="assets/img/faq-buyNow.jpeg" alt="return logo">
                </a>
             </div>
          </div>

@@ -45,7 +45,9 @@
             Financial Reports
         </div>
     </section>
-
+    <div class="boarddHeading">
+        <a href="investor.php"><i class="fa-solid fa-angles-left"></i> Back</a>
+    </div>
 
     <section>
         <div class="reportMain">

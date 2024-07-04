@@ -1,15 +1,36 @@
+
+<?php session_start()?>
+<?php
+$op = array(
+    'prefix' => 'package',
+    'cacheOption' => array(
+        'cacheDir' => '/temp',
+        'lifetime' => 3600
+    )
+);
+// header("Cache-Control: no-cache, no-store, must-revalidate"); // HTTP 1.1.
+// header("Pragma: no-cache"); // HTTP 1.0.
+// header("Expires: 3600"); // Proxies.
+?>
 <?php include ('header.php'); ?>
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-    <title>"Welcome to Sanjeevani Organics Agrofoods Farming Agriculture"</title>
-    <meta name="description" content="description"
-        content="Indian pesticides organic natural food farms/farming agriculture products certified cow milk, grains, pulses, oils, spices, frozen vegetables, produce near me" />
-    <meta name="keywords"
-        content="farm for vegetable, oil organic, pesticides organic food, organic products, organic agriculture, organic vegetables, organic cow milk, organic farms near me, natural farming, organic food farm near me">
+    <title>Welcome to Sanjeevani Organics Agrofoods Farming Agriculture</title>
+
+    <meta name="title" content="Sanjeevani Organics is  Uttarakhand based company dealing Organic Food">
+    <meta name="description"
+        content="Sanjeevani Organics is an Uttarakhand based organization dealing with Organic Food Products and producing organic products for last 10 years in India.">
+    <meta name="keywords" content="organic food  , sanjeevani ,organic products">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    <meta name="author" content="Sanjeevani Organics">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.sanjeevaniagrofoods.com" />
@@ -24,6 +45,14 @@
     <meta name="twitter:label1" content="Est. reading time" />
     <meta name="twitter:data1" content="9 minutes" />
 
+
+      <!-- Cache-Control -->
+      <meta http-equiv='Expires' content='0'>
+    <meta http-equiv='Pragma' content='no-cache'>
+    <meta http-equiv='Cache-Control' content='no-cache'>
+    <meta http-equiv='imagetoolbar' content='no'>
+    <meta http-equiv='x-dns-prefetch-control' content='on'>
+    <!-- Cache-Control -->
 </head>
 
 <body>
@@ -45,8 +74,8 @@
             </div>
 
             <div class="sliderImage">
-                <img src="https://i.postimg.cc/26bGBLYG/slider-One-Test.png" alt="organic food"
-                    class="sliderResponvive">
+                <img src="assets/img/slider-1.webp" alt="organic food"
+                    class="sliderResponvive" loading="lazy">
             </div>
         </div>
 
@@ -55,15 +84,15 @@
 
         <div class="sliderItem">
             <div class="sliderImage">
-                <img src="https://i.postimg.cc/Y9DSTjL5/sanjeevani-organics-slider-Two-Update.png"
-                    alt="sanjeevani organic" class="sliderResponvive imgSecond">
+                <img src="assets/img/slider-2.webp"
+                    alt="sanjeevani organic" class="sliderResponvive imgSecond" loading="lazy">
             </div>
         </div>
 
 
         <div class="sliderItem">
             <div class="sliderImage">
-                <img src="https://i.postimg.cc/Zq7csFj4/sanjeevani-Organic-Third.png" alt="barsana milk"
+                <img src="assets/img/slider-3.webp" alt="barsana milk"
                     class="sliderResponvive thrImage">
             </div>
             <div class="buyNowbtn">
@@ -192,14 +221,14 @@
                 <div class="col-lg-4 col-sm-10 col-md-6">
                     <div class="rv-20-single_service">
                         <div class="rv-20-single_service_iamge">
-                            <img src="https://i.postimg.cc/W4ccxypf/home-6-service-6.png"
+                            <img src="assets/img/home-6-service-6.webp"
                                 alt="Sanjeevani Organic processing / www.barsanamagic.com">
                         </div>
                         <div class="rv-20-single_service_content_main visible">
                             <div class="visible-part">
                                 <div class="rv-20-single_service_content_top">
                                     <div class="rv-20-single_service_icon">
-                                        <img src="assets/img/services/home-6-service-icon-1.webp"
+                                        <img src="assets/img//home-6-service-icon-1.webp"
                                             alt="Organic Agriculture ecological production management">
                                     </div>
                                 </div>
@@ -233,14 +262,14 @@
                 <div class="col-lg-4 col-sm-10 col-md-6">
                     <div class="rv-20-single_service">
                         <div class="rv-20-single_service_iamge">
-                            <img src="https://i.postimg.cc/qRJmkPsT/sanjeevani-Organicsourcing.png"
+                            <img src="assets/img/sanjeevani-organicsourcing.webp"
                                 alt="Sanjeevani Organic sourcing / www.barsanamagic.com">
                         </div>
                         <div class="rv-20-single_service_content_main visible">
                             <div class="visible-part">
                                 <div class="rv-20-single_service_content_top">
                                     <div class="rv-20-single_service_icon">
-                                        <img src="assets/img/services/home-6-service-icon-2.webp"
+                                        <img src="assets/img//home-6-service-icon-2.webp"
                                             alt="Sanjeevani Organic sourcing / www.barsanamagic.com">
                                     </div>
                                 </div>
@@ -269,15 +298,15 @@
                 <div class="col-lg-4 col-sm-10 col-md-6">
                     <div class="rv-20-single_service">
                         <div class="rv-20-single_service_iamge">
-                            <img src="https://i.postimg.cc/C579Z775/LOGISTICS.png"
-                                alt="Sanjeevani Organic distribution / www.barsanamagic.com">
+                            <img src="assets/img/logistics.webp"
+                                alt="Sanjeevani Organic distribution / www.barsanamagic.com" >
                         </div>
                         <div class="rv-20-single_service_content_main visible">
                             <div class="visible-part">
                                 <div class="rv-20-single_service_content_top">
                                     <div class="rv-20-single_service_icon">
-                                        <img src="assets/img/services/home-6-service-icon-3.webp"
-                                            alt="Sanjeevani Organic distribution / www.barsanamagic.com">
+                                        <img src="assets/img//home-6-service-icon-3.webp"
+                                            alt="Sanjeevani Organic distribution / www.barsanamagic.com" loading="lazy">
                                     </div>
                                 </div>
 
@@ -306,10 +335,10 @@
             </div>
         </div>
 
-        <span class="service-sh-1"><img src="https://i.postimg.cc/9FGG2RcX/home-6-service-4.png"
-                alt="Sanjeevani agrofoods/ www.barsanamagic.com"></span>
-        <span class="service-sh-2"><img src="https://i.postimg.cc/kG77tpRp/home-6-service-5.png"
-                alt="Sanjeevani agrofoods / www.barsanamagic.com"></span>
+        <span class="service-sh-1"><img src="assets/img/home-6-service-4.webp"
+                alt="Sanjeevani agrofoods/ www.barsanamagic.com" loading="lazy"></span>
+        <span class="service-sh-2"><img src="assets/img/home-6-service-5.webp"
+                alt="Sanjeevani agrofoods / www.barsanamagic.com" loading="lazy"></span>
     </section>
 
 
@@ -621,17 +650,17 @@
 
                 <div class="col-md-12  col-lg-6 col-xl-5">
                     <div class="rv-20-about_image">
-                        <img data-aos="fade-down" src="https://i.postimg.cc/XYVstVqC/blog-banner.png"
-                            alt="Sanjeevani Organic 23 year old experiences / www.barsanamagic.com">
+                        <img data-aos="fade-down" src="assets/img/blog-banner.webp"
+                            alt="Sanjeevani Organic 23 year old experiences / www.barsanamagic.com" loading="lazy">
 
-                        <img data-aos="fade-up" src="https://i.postimg.cc/90Rmt7F6/home-6-about-2.png"
-                            alt="Sanjeevani agrofoods / www.barsanamagic.com">
+                        <img data-aos="fade-up" src="assets/img/cow.webp"
+                            alt="Sanjeevani agrofoods / www.barsanamagic.com" loading="lazy">
                     </div>
                 </div>
             </div>
         </div>
-        <span class="about-sh-6"> <img src="https://i.postimg.cc/44v9P8Lb/home-6-about-3.png"
-                alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com"></span>
+        <span class="about-sh-6"> <img src="assets/img/home-6-about-3.webp"
+                alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com" loading="lazy"></span>
     </section>
     <!-----------------------------------------------------------------------------------------
                             SANJEEVANI DAIRY PRODUCT SECTION END 
@@ -675,8 +704,8 @@
             <div class="col-md-12">
                 <div class="d-flex justify-content-center">
                     <div class="mt-5">
-                        <img src="https://i.postimg.cc/8cxwrMhL/client-logo.jpg"
-                            alt="Sanjeevani agrofoods / www.barsanamagic.com">
+                        <img src="assets/img/client.webp"
+                            alt="Sanjeevani agrofoods / www.barsanamagic.com" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -725,8 +754,8 @@
                     <div class="col-12 d-flex">
                         <div class="col-5 sliderImg">
                             <div class="rv-20-single_service_image">
-                                <img src="https://i.postimg.cc/vZ6r043j/grains.png"
-                                    alt="sanjeevaniagrofoods and barsana magic india dairy">
+                                <img src="assets/img/grains.webp"
+                                    alt="sanjeevaniagrofoods and barsana magic india dairy" loading="lazy">
                             </div>
                         </div>
                         <div class="sliderText">
@@ -763,8 +792,8 @@
                     <div class="col-12 d-flex">
                         <div class="col-5 sliderImg">
                             <div class="rv-20-single_service_image">
-                                <img src="https://i.postimg.cc/QdpS3Jjq/organic-pulses.png" class="borederRadius"
-                                    alt="Sanjeevani Organic / Barsana Magic Indian Cow Milk">
+                                <img src="assets/img/organic-pulses.webp" class="borederRadius"
+                                    alt="Sanjeevani Organic / Barsana Magic Indian Cow Milk" loading="lazy">
                             </div>
                         </div>
                         <div class="sliderText">
@@ -805,9 +834,9 @@
                     <div class="col-12 d-flex">
                         <div class="col-5 sliderImg">
                             <div class="rv-20-single_service_image">
-                                <img src="https://i.postimg.cc/mZ6Lnndr/oil-slider.jpg"
+                                <img src="assets/img/oil-slider.webp"
                                     alt="Sanjeevani Agrofoods / Sanjeevani Barsana Magic Organic Milk"
-                                    class="borederRadius">
+                                    class="borederRadius" loading="lazy">
                             </div>
                         </div>
                         <div class="sliderText">
@@ -845,8 +874,8 @@
                     <div class="col-12 d-flex">
                         <div class="col-5 sliderImg">
                             <div class="rv-20-single_service_image">
-                                <img src="https://i.postimg.cc/9FnmPyTC/organic-spices.png"
-                                    alt="Sanjeevani Organic spices / www.barsanamagic.com" class="borederRadius">
+                                <img src="assets/img/organic-spices.webp"
+                                    alt="Sanjeevani Organic spices / www.barsanamagic.com" class="borederRadius" loading="lazy">
                             </div>
                         </div>
                         <div class="sliderText">
@@ -883,9 +912,9 @@
                     <div class="col-12 d-flex">
                         <div class="col-5 sliderImg">
                             <div class="rv-20-single_service_image">
-                                <img src="https://i.postimg.cc/mDMHF6wp/indian-cow-milk2.png"
+                                <img src="assets/img/indian-cow-milk2.webp"
                                     alt="Sanjeevani Organic and Barsana Organic Cow Milk / www.barsanamagic.com"
-                                    class="borederRadius">
+                                    class="borederRadius" loading="lazy">
                             </div>
                         </div>
                         <div class="sliderText">
@@ -932,9 +961,9 @@
                     <div class="col-12 d-flex">
                         <div class="col-5 sliderImg">
                             <div class="rv-20-single_service_image">
-                                <img src="https://i.postimg.cc/vmB2zw8j/Portfolio12.webp"
+                                <img src="assets/img/portfolio12.webp"
                                     alt="Sanjeevani Organic Product / barsana magic Organic Dairy"
-                                    class="borederRadius">
+                                    class="borederRadius" loading="lazy">
                             </div>
                         </div>
                         <div class="sliderText">
@@ -995,8 +1024,8 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/gcyn3hVJ/building.png" alt="sanjeevni office"
-                                    class="profile">
+                                <img src="assets/img/building.webp" alt="sanjeevni office"
+                                    class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     HEAD-OFFICE
                                 </div>
@@ -1022,7 +1051,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/C5hbTsGv/barsana-employee.png" alt="" class="profile">
+                                <img src="assets/img/team2.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     Organic Pulses (UNIT)
                                 </div>
@@ -1048,7 +1077,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/NG2cRvRj/frozen.png" alt="" class="profile">
+                                <img src="assets/img/frozen.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     Organic Farming
                                 </div>
@@ -1075,7 +1104,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/qM1JJxTP/cow.png" alt="" class="profile">
+                                <img src="assets/img/milk.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     Barsana Magic Cow Milk
                                 </div>
@@ -1098,8 +1127,8 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/DzRmY8tS/barsana-dairy.png"
-                                    style="height:300px width:500px" alt="">
+                                <img src="assets/img/barsana-dairy.webp"
+                                    style="height:300px width:500px" alt="logo" loading="lazy">
                                 <div class="text-uppercase name mt-3 font-weight-bold">
                                     About Barsana Magic
                                 </div>
@@ -1125,7 +1154,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/SRGJ5M7D/field.png" alt="" class="profile">
+                                <img src="assets/img/blog7.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     Organic Agriculture
                                 </div>
@@ -1148,7 +1177,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/qBbM6jF1/dal.png" alt="" class="profile">
+                                <img src="assets/img/dal.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="text-uppercase name p-3 font-weight-bold">
                                     Organic Pulses
                                 </div>
@@ -1175,7 +1204,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/0jM3QYry/cow-ghee-new.png" alt="" class="profile">
+                                <img src="assets/img/blog8.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     Organic Ghee
                                 </div>
@@ -1198,7 +1227,7 @@
                     <div class="col-lg-4 innerbox">
                         <div class="officecard">
                             <div class="face front-face">
-                                <img src="https://i.postimg.cc/KzRfmmsP/blog-banner-2.png" alt="" class="profile">
+                                <img src="assets/img/honey2.webp" alt="logo" class="profile" loading="lazy">
                                 <div class="pt-3 text-uppercase name font-weight-bold">
                                     Honey
                                 </div>
@@ -1235,8 +1264,8 @@
             <div class="row">
                 <div class="col-md-12 col-lg-5">
                     <div class="rv-20-contact_image" data-aos="fade-up">
-                        <img src="https://i.postimg.cc/d3hwzTxb/sanjeevniagro-contactus-removebg-preview.png"
-                            alt="Sanjeevani Organic  / Barsana Magic Organic Dairy Products" class="profile">
+                        <img src="assets/img/sanjeevniagro-contactus-removebg-preview.webp"
+                            alt="Sanjeevani Organic  / Barsana Magic Organic Dairy Products" class="profile" loading="lazy">
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-7">
@@ -1261,14 +1290,10 @@
                                     <input type="email" class="form-control" placeholder="Email Address" name="email"
                                         required>
                                 </div>
-                                <div class="">
-                                    <input type="text" class="form-control" placeholder="Choose Services"
-                                        name="services" required>
-                                </div>
                             </div>
                             <textarea placeholder="Your Message" name="message"></textarea>
                             <div class="rv-20-contact_form_button">
-                                <button>Send Message <i class="fas fa-arrow-right"></i></button>
+                                <button name="submit">Send Message <i class="fas fa-arrow-right"></i></button>
                             </div>
                         </form>
                     </div>
@@ -1276,10 +1301,10 @@
             </div>
 
         </div>
-        <span class="home-6-sh-1"> <img src="https://i.postimg.cc/rs0KCm7m/home-6-sh-1.png"
-                alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com"></span>
-        <span class="home-6-sh-2"> <img src="https://i.postimg.cc/Pxb6fXSC/home-6-sh-2.png"
-                alt="sanjeevani organic and barsana magic"></span>
+        <span class="home-6-sh-1"> <img src="assets/img/home-6-sh-1.webp"
+                alt="www.sanjeevaniagrofoods.com / www.barsanamagic.com" loading="lazy"></span>
+        <span class="home-6-sh-2"> <img src="assets/img/home-6-sh-2.webp"
+                alt="sanjeevani organic and barsana magic" loading="lazy"></span>
     </section>
     <!-------------------------------------------------------------------------------------------
                                  START END CONTACT SECTION 
@@ -1305,8 +1330,8 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="rv-20-single_blog" data-aos="fade-up">
                         <div class="rv-20-blog_image">
-                            <img src="https://i.postimg.cc/CMc1PW00/home-6-blog-1.png"
-                                alt="sanjeevani agrofoods and barsana magic dairy">
+                            <img src="assets/img/blog1.webp"
+                                alt="sanjeevani agrofoods and barsana magic dairy" loading="lazy">
 
                             <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>April 02, 2024
                             </p>
@@ -1324,8 +1349,8 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="rv-20-single_blog" data-aos="fade-up">
                         <div class="rv-20-blog_image">
-                            <img src="https://i.postimg.cc/ZKJQRMvW/home-6-blog-2.png"
-                                alt="www.sanjeevaniagrofoods.com and www.barsanamagic.com">
+                            <img src="assets/img/team.webp"
+                                alt="www.sanjeevaniagrofoods.com and www.barsanamagic.com" loading="lazy">
 
                             <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>Jan 10, 2024
                             </p>
@@ -1344,8 +1369,8 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="rv-20-single_blog" data-aos="fade-up">
                         <div class="rv-20-blog_image">
-                            <img src="https://i.postimg.cc/3NNnXPX1/home-6-blog-3.png"
-                                alt="sanjeevani agrofoods and sanjeevani barsana magic dairy products">
+                            <img src="assets/img/blog6.webp"
+                                alt="sanjeevani agrofoods and sanjeevani barsana magic dairy products" loading="lazy">
 
                             <p class="rv-20-single_blog_date"> <i class="fal fa-calendar-alt"></i>Feb 25, 2024
                             </p>

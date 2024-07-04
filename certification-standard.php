@@ -18,54 +18,54 @@
     <link rel="shortcut icon" href="images/ico/favicon.png">
     <link rel="canonical" href="certification-standard.php" />
 </head>
-<div class="rv-breadcrumb pt-120">
-    <div class="container">
-        <h1 class="rv-breadcrumb__title">Certification Standards</h1>
-        <ul class="rv-breadcrumb__nav d-flex justify-content-center">
-            <li><a href="index.html"><i class="fa-solid fa-sharp fa-home"></i>Home</a></li>
-            <li class="current-page"><span class="dvdr"> &#47;</span><span>Certification</span></li>
-        </ul>
-    </div>
-</div>
 
 <body>
 
+<div class="rv-breadcrumb pt-100 pb-120">
+    <div class="container breadcrumbInnerBox">
+      <h1 class="rv-breadcrumb__title">Certification Standards</h1>
 
+      <ul class="rv-breadcrumb__nav d-flex justify-content-center">
+        <li><a href="index.php"><i class="fa-solid fa-sharp fa-home"></i> Sanjeevani Agrofoods Limited</a></li>
+        <li class="current-page"><span class="dvdr"> &#47;</span><span>Certification</span></li>
+      </ul>
+    </div>
+  </div>
     <div class="cer">
         <!-- Logo slider with Title and description -->
         <div class="logo-slider-2">
             <h2>CERTIFICATION</h2>
             <div class="owl-carousel version-2">
                 <div>
-                    <img src="https://i.postimg.cc/852XP2Kx/11.webp">
+                    <img src="assets/img/66-certificate.webp" alt="logo" loading="lazy">
                     <h2>India Organic</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/qqmL6Wjk/22.webp">
+                    <img src="assets/img/22-certificate.webp" alt="logo" loading="lazy">
                     <h2>Uttarakhand State Organic Certification Agency</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/05HXQJ37/33.webp">
+                    <img src="assets/img/33-certificate.webp" alt="logo" loading="lazy">
                     <h2>Jaivik Bharat</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/8z3rfTGK/44.png">
+                    <img src="https://i.postimg.cc/8z3rfTGK/44.webp" alt="logo" loading="lazy">
                     <h2>U.S. DEPARTMENT OF AGRICULTURE</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/c47S8hNV/44.webp">
+                    <img src="https://i.postimg.cc/c47S8hNV/44.webp" alt="logo" loading="lazy">
                     <h2>Organic certification for the world</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/PxdZT2TT/55.webp">
+                    <img src="assets/img/c-canada.webp" alt="logo" loading="lazy">
                     <h2>canada Organic Biologique Canada</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/D02tQkhH/66.webp">
+                    <img src="assets/img/66-certificate.webp" alt="logo" loading="lazy">
                     <h2>Agricultural Products Certification and Supervision OrganizationS</h2>
                 </div>
                 <div>
-                    <img src="https://i.postimg.cc/Wbzys71G/77.webp">
+                    <img src="assets/img/77-certificate.webp" alt="logo" loading="lazy">
                     <h2>ADITI ORGANIC CERTIFICATIONS</h2>
                 </div>
 
@@ -86,8 +86,8 @@
                             Sanjeevani Organics is Organic Operator/Grower, Processor and Trader, hence
                             has
                             certified by Agricultural and Processed Food Products Export Development Authority
-                            <a href="https://apeda.gov.in/apedawebsite/">(APEDA)</a> for National Programme for Organic
-                            Production <a href="https://apeda.gov.in/apedawebsite/organic/index.htm">(NPOP)</a> &
+                            <a href="https://apeda.gov.in/apedawebsite">(APEDA)</a> for National Programme for Organic
+                            Production <a href="https://apeda.gov.in/apedawebsite">(NPOP)</a> &
                             <a href="https://www.ams.usda.gov/about-ams/programs-offices/national-organic-program">(NOP)</a>
                             program. Sanjeevani Organics is one of very few companies having EU certification for
                             process

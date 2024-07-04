@@ -12,33 +12,33 @@
                 </div>
                 <div class="companyBrandTwo">
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/hGTZzxn7/66-removebg-preview.png" alt="">
+                        <img src="assets/img/66-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/GtTxV8Qj/55-removebg-preview.png" alt="">
+                        <img src="assets/img/55-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/qqn4Rww6/11-removebg-preview.png" alt="">
+                        <img src="assets/img/11-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/7hLSrCnR/22-removebg-preview.png" alt="">
+                        <img src="assets/img/22-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/DZQK30w1/33-removebg-preview.png" alt="">
+                        <img src="assets/img/33-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/2510WSbh/44-removebg-preview.png" alt="">
+                        <img src="assets/img/44-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/L8t1bdcw/44-removebg-preview-1.png" alt="">
+                        <img src="assets/img/c-usda.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="companyBrand">
-                        <img src="https://i.postimg.cc/VvvhKW5Z/77-removebg-preview.png" alt="">
+                        <img src="assets/img/77-certificate.webp" alt="brand-logo" loading="lazy">
                     </div>
                 </div>
             </div>
 
-            <div class="footerInnerBox d-flex">
+            <div class="footerInnerBox">
                 <div class="footerBoxOne">
                     <h3>Our Services</h3>
                     <ul>
@@ -71,13 +71,13 @@
                 <h3>Our Product</h3>
                 <div class="footerProduct">
                     <div class="productCategory">
-                        <img src="https://i.postimg.cc/kXS8X0Vg/1-a2-badri.png" alt="">
+                        <img src="assets/img/1-a2-badri.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="productCategory">
-                        <img src="https://i.postimg.cc/Bv7RpYxR/1-natural-neem-honey-1.png" alt="">
+                        <img src="assets/img/honey.webp" alt="brand-logo" loading="lazy">
                     </div>
                     <div class="productCategory">
-                        <img src="https://i.postimg.cc/hjpv2qCc/1-stay-feet200ml.png" alt="">
+                        <img src="assets/img/stay-fit.webp" alt="brand-logo" loading="lazy">
                     </div>
 
                 </div>
@@ -88,11 +88,11 @@
 
             <div class="playStore d-flex justify-content-center mt-5">
                 <a href="https://play.google.com/store/apps/details?id=com.barsanamagic.user&hl=en">
-                    <img src="https://i.postimg.cc/0jDxZxpZ/google-icon.png" alt="sanjeevani agro google play store" style="width:200px">
+                    <img src="assets/img/android.webp" alt="sanjeevani agro google play store" style="width:200px" loading="lazy">
                 </a>
 
                 <a href="#">
-                    <img src="https://i.postimg.cc/0y2RK7HV/ios-icon.png" alt="sanjeevani agro apple play store" style="width:200px">
+                    <img src="assets/img/ios-icon.webp" alt="sanjeevani agro apple play store" style="width:200px" loading="lazy">
                 </a>
             </div>
             </div>
@@ -410,6 +410,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
+
 <script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
 <script src="assets/vendor/syotimer/jquery.syotimer.min.js"></script>
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
@@ -421,28 +422,39 @@
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
-<script src="assets/vendor/gsap/gsap.min.js"></script>
+<!-- <script src="assets/vendor/gsap/gsap.min.js"></script> -->
 <script src="assets/vendor/gsap/gsap-scroll-trigger.min.js"></script>
+<!-- mouse scroll js -->
 <script src="assets/vendor/split-type/split-type-0.3.3.min.js"></script>
+<!-- mouse scroll js -->
 <script src="assets/vendor/lenis/lenis.js"></script>
 <script src="assets/vendor/anime/anime.min.js"></script>
-<script src='assets/vendor/venobox/venobox.min.js'></script>
-<script src='assets/vendor/aos/aos.js'></script>
+<!-- <script src='assets/vendor/venobox/venobox.min.js'></script> -->
+<!-- <script src='assets/vendor/aos/aos.js'></script> -->
 <script src='assets/js/main.js'></script>
-<script src='assets/js/search-modal.js'></script>
+<!-- <script src='assets/js/search-modal.js'></script> -->
 
 
 
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
+  <script>
+    var messageText = "<?= $_SESSION['status'] ?? ''; ?>";
+    if (messageText != '') {
+      Swal.fire({
+        title: "Thank you",
+        text: messageText,
+        icon: "Success"
+      });
+    }
+    else {
+      <?php unset($_SESSION['status']) ?>
+    }
+
+  </script>
 
 
 <script>
-    /* Magnific Popup js */
-
-
-
-
-    /* Magnific Popup js */
 
     $(document).ready(function () {
 

@@ -40,7 +40,7 @@
   </div>
 
 
-  <div class="inverstorMain" style="margin-top:50px">
+  <div class="inverstorMain" style="padding:100px;">
 
     <div class="investorBorder">
       <a href="board-of-directors.php">
@@ -80,7 +80,7 @@
           </svg>
         </div>
         <div class="investorText">
-          <h4 class="text-dark" style="font-size:28px;width:250px;">Board of Directors</h4>
+          <h4 class="text-dark" style="font-size:26px;width:250px;">Board of Directors</h4>
         </div>
       </a>
     </div>
@@ -102,7 +102,7 @@
 
         </div>
         <div class="investorText">
-          <h4 class="text-dark" style="font-size:28px;width:250px;">Announcements</h4>
+          <h4 class="text-dark" style="font-size:26px;width:250px;">Announcements</h4>
         </div>
       </a>
     </div>
@@ -177,7 +177,7 @@
           </svg>
         </div>
         <div class="investorText">
-          <h3 class="text-dark" style="width:279px;">Committees of the Board</h3>
+          <h4 class="text-dark" style="width:316px; font-size:26px;">Committees of the Board</h4>
         </div>
       </a>
     </div>
